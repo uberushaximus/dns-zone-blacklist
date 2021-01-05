@@ -63204,8 +63204,6 @@ marchadvertisingnetwork10.com CNAME .
 *.marchadvertisingnetwork10.com CNAME .
 web.vortex.data.microsoft.com CNAME .
 *.web.vortex.data.microsoft.com CNAME .
-analytics.console.aws.a2z.com CNAME .
-*.analytics.console.aws.a2z.com CNAME .
 filteradkernel.adsimilate.com CNAME .
 *.filteradkernel.adsimilate.com CNAME .
 rubiconproject.net.akadns.net CNAME .
@@ -64726,6 +64724,10 @@ vdterms.samsungcloudsolution.com CNAME .
 *.vdterms.samsungcloudsolution.com CNAME .
 oempprd.samsungcloudsolution.net CNAME .
 *.oempprd.samsungcloudsolution.net CNAME .
+pr.analytics.console.aws.a2z.com CNAME .
+*.pr.analytics.console.aws.a2z.com CNAME .
+pw.analytics.console.aws.a2z.com CNAME .
+*.pw.analytics.console.aws.a2z.com CNAME .
 analytics-au.clickdimensions.com CNAME .
 *.analytics-au.clickdimensions.com CNAME .
 analytics-eu.clickdimensions.com CNAME .

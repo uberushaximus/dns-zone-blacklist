@@ -31599,7 +31599,6 @@ zone "d3dkhq0wwdwodv.cloudfront.net" { type master; notify no; file "null.zone.f
 zone "d3lvir7538n0oi.cloudfront.net" { type master; notify no; file "null.zone.file"; };
 zone "marchadvertisingnetwork10.com" { type master; notify no; file "null.zone.file"; };
 zone "web.vortex.data.microsoft.com" { type master; notify no; file "null.zone.file"; };
-zone "analytics.console.aws.a2z.com" { type master; notify no; file "null.zone.file"; };
 zone "filteradkernel.adsimilate.com" { type master; notify no; file "null.zone.file"; };
 zone "rubiconproject.net.akadns.net" { type master; notify no; file "null.zone.file"; };
 zone "clickwallads.s3.amazonaws.com" { type master; notify no; file "null.zone.file"; };
@@ -32360,6 +32359,8 @@ zone "whia7g.acquafufheirybveru.online" { type master; notify no; file "null.zon
 zone "oempprd.samsungcloudsolution.com" { type master; notify no; file "null.zone.file"; };
 zone "vdterms.samsungcloudsolution.com" { type master; notify no; file "null.zone.file"; };
 zone "oempprd.samsungcloudsolution.net" { type master; notify no; file "null.zone.file"; };
+zone "pr.analytics.console.aws.a2z.com" { type master; notify no; file "null.zone.file"; };
+zone "pw.analytics.console.aws.a2z.com" { type master; notify no; file "null.zone.file"; };
 zone "analytics-au.clickdimensions.com" { type master; notify no; file "null.zone.file"; };
 zone "analytics-eu.clickdimensions.com" { type master; notify no; file "null.zone.file"; };
 zone "dlt-beacon.dynatrace-managed.com" { type master; notify no; file "null.zone.file"; };

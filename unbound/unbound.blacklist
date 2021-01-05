@@ -63200,8 +63200,6 @@ local-zone: "marchadvertisingnetwork10.com" redirect
 local-data: "marchadvertisingnetwork10.com A 0.0.0.0"
 local-zone: "web.vortex.data.microsoft.com" redirect
 local-data: "web.vortex.data.microsoft.com A 0.0.0.0"
-local-zone: "analytics.console.aws.a2z.com" redirect
-local-data: "analytics.console.aws.a2z.com A 0.0.0.0"
 local-zone: "filteradkernel.adsimilate.com" redirect
 local-data: "filteradkernel.adsimilate.com A 0.0.0.0"
 local-zone: "rubiconproject.net.akadns.net" redirect
@@ -64722,6 +64720,10 @@ local-zone: "vdterms.samsungcloudsolution.com" redirect
 local-data: "vdterms.samsungcloudsolution.com A 0.0.0.0"
 local-zone: "oempprd.samsungcloudsolution.net" redirect
 local-data: "oempprd.samsungcloudsolution.net A 0.0.0.0"
+local-zone: "pr.analytics.console.aws.a2z.com" redirect
+local-data: "pr.analytics.console.aws.a2z.com A 0.0.0.0"
+local-zone: "pw.analytics.console.aws.a2z.com" redirect
+local-data: "pw.analytics.console.aws.a2z.com A 0.0.0.0"
 local-zone: "analytics-au.clickdimensions.com" redirect
 local-data: "analytics-au.clickdimensions.com A 0.0.0.0"
 local-zone: "analytics-eu.clickdimensions.com" redirect

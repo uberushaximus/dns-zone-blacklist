@@ -31599,7 +31599,6 @@ local-zone: "d3dkhq0wwdwodv.cloudfront.net" always_nxdomain
 local-zone: "d3lvir7538n0oi.cloudfront.net" always_nxdomain
 local-zone: "marchadvertisingnetwork10.com" always_nxdomain
 local-zone: "web.vortex.data.microsoft.com" always_nxdomain
-local-zone: "analytics.console.aws.a2z.com" always_nxdomain
 local-zone: "filteradkernel.adsimilate.com" always_nxdomain
 local-zone: "rubiconproject.net.akadns.net" always_nxdomain
 local-zone: "clickwallads.s3.amazonaws.com" always_nxdomain
@@ -32360,6 +32359,8 @@ local-zone: "whia7g.acquafufheirybveru.online" always_nxdomain
 local-zone: "oempprd.samsungcloudsolution.com" always_nxdomain
 local-zone: "vdterms.samsungcloudsolution.com" always_nxdomain
 local-zone: "oempprd.samsungcloudsolution.net" always_nxdomain
+local-zone: "pr.analytics.console.aws.a2z.com" always_nxdomain
+local-zone: "pw.analytics.console.aws.a2z.com" always_nxdomain
 local-zone: "analytics-au.clickdimensions.com" always_nxdomain
 local-zone: "analytics-eu.clickdimensions.com" always_nxdomain
 local-zone: "dlt-beacon.dynatrace-managed.com" always_nxdomain
