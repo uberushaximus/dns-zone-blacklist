@@ -20,7 +20,7 @@ class Blacklist {
       {
         type: 'bind',
         filename: 'bind-nxdomain.blacklist',
-        template: '<%= host %> CNAME .\n*.<%= host %> CNAME .',
+        template: '<%= host %> CNAME .',
         header: `$TTL 60\n@ IN SOA localhost. dns-zone-blacklist. (2 3H 1H 1W 1H)\ndns-zone-blacklist. IN NS localhost.`
       },
       {
