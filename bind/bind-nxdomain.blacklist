@@ -839,12 +839,11 @@ taxel.jp CNAME .
 teads.tv CNAME .
 ziyu.net CNAME .
 cipro.mx CNAME .
-epam.vip CNAME .
 fc.co.mz CNAME .
 gccon.in CNAME .
-gen-l.tk CNAME .
 geowf.ge CNAME .
 karer.by CNAME .
+mer30.ru CNAME .
 reime.dk CNAME .
 sshd.run CNAME .
 24log.de CNAME .
@@ -1313,6 +1312,7 @@ aaget.xyz CNAME .
 acoupy.pl CNAME .
 adcast.ir CNAME .
 aebior.pl CNAME .
+aerund.pl CNAME .
 aga.in.ua CNAME .
 agllon.pl CNAME .
 aiifo.com CNAME .
@@ -1357,6 +1357,7 @@ bluesz.pl CNAME .
 boerce.pl CNAME .
 boint.ink CNAME .
 bosbnk.pl CNAME .
+brisis.pl CNAME .
 budet.win CNAME .
 bunrle.pl CNAME .
 byktem.pl CNAME .
@@ -2903,6 +2904,7 @@ bartoza.pl CNAME .
 barziz.com CNAME .
 bbcnews.pl CNAME .
 bcquit.xyz CNAME .
+beaunc.com CNAME .
 beehrm.com CNAME .
 beflagu.pl CNAME .
 bembeb.xyz CNAME .
@@ -2914,6 +2916,7 @@ bikieva.pl CNAME .
 bindop.com CNAME .
 bio4you.pl CNAME .
 bitix.site CNAME .
+bjolaz.com CNAME .
 blogbix.ru CNAME .
 bmumuh.com CNAME .
 bofooc.org CNAME .
@@ -2922,6 +2925,7 @@ boiser.win CNAME .
 boxtlk.org CNAME .
 bracho.bid CNAME .
 brikee.com CNAME .
+buanre.com CNAME .
 buhrs.info CNAME .
 byelaws.pl CNAME .
 b-s500.com CNAME .
@@ -3013,6 +3017,7 @@ facilit.pl CNAME .
 fak24ty.pl CNAME .
 faktywp.eu CNAME .
 fanyun.com CNAME .
+faryen.com CNAME .
 fasmol.org CNAME .
 faulall.pl CNAME .
 feerk.loan CNAME .
@@ -3074,6 +3079,7 @@ gutfilm.pl CNAME .
 guuno.loan CNAME .
 gysnow.uno CNAME .
 halluci.pl CNAME .
+hamhev.com CNAME .
 hanulik.pl CNAME .
 hezzer.com CNAME .
 himedic.vn CNAME .
@@ -3189,6 +3195,7 @@ mourao.net CNAME .
 mrfco.info CNAME .
 mtvlex.com CNAME .
 munado.com CNAME .
+murtap.com CNAME .
 mybank.sbs CNAME .
 mycoflo.eu CNAME .
 myidoll.se CNAME .
@@ -3437,6 +3444,7 @@ zeryzh.xyz CNAME .
 zgjzhk.com CNAME .
 zibia40.pl CNAME .
 zksncwa.pl CNAME .
+zljnpx.com CNAME .
 znamcie.pl CNAME .
 zumodi.com CNAME .
 zyjetym.eu CNAME .
@@ -3941,9 +3949,7 @@ expotb.com CNAME .
 g.nxxxn.ga CNAME .
 ggsteal.in CNAME .
 i-dots.com CNAME .
-ifonti.com CNAME .
 kimyen.net CNAME .
-l-inky.com CNAME .
 la-csi.com CNAME .
 loa-hk.com CNAME .
 meeweb.com CNAME .
@@ -3952,12 +3958,12 @@ mnpcbd.com CNAME .
 mwu.com.mx CNAME .
 nobius.org CNAME .
 olia.store CNAME .
-ozemag.com CNAME .
 pink99.com CNAME .
 pns.org.pk CNAME .
 promas.com CNAME .
 qmsled.com CNAME .
 raqmnh.com CNAME .
+rischyo.cf CNAME .
 scr.gen.tr CNAME .
 shopart.me CNAME .
 swwbia.com CNAME .
@@ -3967,7 +3973,6 @@ veomit.com CNAME .
 vfocus.net CNAME .
 x.233sy.cn CNAME .
 zhivir.com CNAME .
-zopxor.com CNAME .
 1-1ads.com CNAME .
 101com.com CNAME .
 180hits.de CNAME .
@@ -5081,6 +5086,7 @@ bilakas.com CNAME .
 bitomis.com CNAME .
 biurontz.pl CNAME .
 bivinno.com CNAME .
+blanopuc.tk CNAME .
 bliki24.net CNAME .
 blivand.bar CNAME .
 bobsiot.com CNAME .
@@ -5220,6 +5226,7 @@ energpl.xyz CNAME .
 epiciek.com CNAME .
 epodatk.net CNAME .
 epsived.com CNAME .
+equinoxe.pl CNAME .
 ergltd.info CNAME .
 eshmerko.ru CNAME .
 esrousci.ml CNAME .
@@ -5297,6 +5304,7 @@ greenock.pl CNAME .
 grimace.sbs CNAME .
 grupoeq.com CNAME .
 guarans.uno CNAME .
+gurmain.com CNAME .
 gurphil.com CNAME .
 gybnol.site CNAME .
 gz24info.pl CNAME .
@@ -5340,6 +5348,7 @@ inpost.site CNAME .
 inpost.tech CNAME .
 insectiv.pl CNAME .
 intercut.pl CNAME .
+investpl.me CNAME .
 invxsler.co CNAME .
 irismal.com CNAME .
 ivalemn.com CNAME .
@@ -5390,9 +5399,11 @@ kzstarzc.pl CNAME .
 labersa.com CNAME .
 landser.uno CNAME .
 lantanna.mx CNAME .
+laruton.com CNAME .
 leasehol.pl CNAME .
 lechowiz.pl CNAME .
 leilodl.com CNAME .
+lemsoka.com CNAME .
 leostay.com CNAME .
 lezrweb.com CNAME .
 lidgen.cyou CNAME .
@@ -5488,6 +5499,8 @@ nigmapl.com CNAME .
 nipausa.com CNAME .
 nisaaweb.pl CNAME .
 noclodz.xyz CNAME .
+notcher.xyz CNAME .
+nound.space CNAME .
 nubsko.host CNAME .
 nustof.site CNAME .
 nvlabel.com CNAME .
@@ -5559,6 +5572,7 @@ pinshyni.ml CNAME .
 pinvazo.com CNAME .
 piotrsza.pl CNAME .
 pko24.space CNAME .
+plainsm.xyz CNAME .
 playertv.pl CNAME .
 playfuln.pl CNAME .
 play-vod.pl CNAME .
@@ -5642,6 +5656,7 @@ salukis.com CNAME .
 sambasud.pl CNAME .
 samna24.com CNAME .
 sanki50.com CNAME .
+satgrat.com CNAME .
 sds-ksa.net CNAME .
 segseng.com CNAME .
 semicond.pl CNAME .
@@ -5682,6 +5697,7 @@ syatwea.com CNAME .
 sympathi.pl CNAME .
 takeelf.org CNAME .
 takjakmy.eu CNAME .
+tampada.com CNAME .
 tan428.site CNAME .
 tarikis.com CNAME .
 tasectan.se CNAME .
@@ -6477,7 +6493,6 @@ acera.co.uk CNAME .
 agemn.co.za CNAME .
 airhobi.com CNAME .
 akim.org.ar CNAME .
-aysbody.com CNAME .
 balibuli.hu CNAME .
 bhaagya.app CNAME .
 bitlog.shop CNAME .
@@ -6486,21 +6501,17 @@ bpsjambi.id CNAME .
 closehub.ru CNAME .
 dhcmart.com CNAME .
 dijicom.net CNAME .
-drawino.com CNAME .
 dukaree.com CNAME .
-f5ajans.com CNAME .
 goldrush.ug CNAME .
-grimmcm.com CNAME .
 gunstel.com CNAME .
 hegodev.com CNAME .
 heyatek.com CNAME .
+hostyxxx.ru CNAME .
 imobiles.pk CNAME .
-instment.ga CNAME .
 jobcity.com CNAME .
 kaptured.io CNAME .
 kin5888.com CNAME .
 kingmode.ir CNAME .
-ksansari.pk CNAME .
 kustens.com CNAME .
 ldgcorp.com CNAME .
 medofast.in CNAME .
@@ -7906,6 +7917,7 @@ aquassws.com CNAME .
 areaflix.com CNAME .
 arkotalk.com CNAME .
 art4aeon.com CNAME .
+arysyian.com CNAME .
 atlonium.com CNAME .
 au.ppaco.xyz CNAME .
 aureliapo.pl CNAME .
@@ -8769,6 +8781,7 @@ tadoms.space CNAME .
 taikos.space CNAME .
 talkcon.info CNAME .
 tantales.com CNAME .
+tcekoles.com CNAME .
 tearnow.site CNAME .
 techkade.com CNAME .
 tecniagro.cl CNAME .
@@ -8893,6 +8906,7 @@ wp-portal.eu CNAME .
 wracam.click CNAME .
 wracamypl.eu CNAME .
 wradomiu.xyz CNAME .
+writheeko.tk CNAME .
 wrybniku.xyz CNAME .
 wsparcie.xyz CNAME .
 wtoruniu.xyz CNAME .
@@ -9740,10 +9754,8 @@ donbaham.com CNAME .
 e5web.com.br CNAME .
 easybrand.vn CNAME .
 ebuysa.co.za CNAME .
-emaids.co.za CNAME .
 godubai.club CNAME .
 htech.eti.br CNAME .
-hunggiang.vn CNAME .
 ingenious.cl CNAME .
 japlatec.com CNAME .
 kevinley.com CNAME .
@@ -9753,16 +9765,16 @@ lameguard.ru CNAME .
 lifebotl.com CNAME .
 linkintec.cn CNAME .
 livetrack.in CNAME .
-ls-droid.com CNAME .
 medianews.ge CNAME .
 mepstein.com CNAME .
-mewolters.nl CNAME .
 minka.com.mx CNAME .
 moarkgcc.com CNAME .
 octcargo.com CNAME .
+peinados.top CNAME .
 solenica.com CNAME .
 spent.com.pl CNAME .
 temptmag.com CNAME .
+textglow.net CNAME .
 thegift.live CNAME .
 thesalons.in CNAME .
 tonydong.com CNAME .
@@ -10061,6 +10073,7 @@ domsearch.net CNAME .
 technoob.info CNAME .
 hotzxgirl.com CNAME .
 secur.hopp.to CNAME .
+nl-crypto.com CNAME .
 crash.163.com CNAME .
 iad.g.163.com CNAME .
 www.5rocks.io CNAME .
@@ -11398,6 +11411,7 @@ agenizingz.pl CNAME .
 agorogha.shop CNAME .
 agrigjttsw.co CNAME .
 agusitiawn.pl CNAME .
+airholesro.pl CNAME .
 aitallipl.xyz CNAME .
 ai-system.xyz CNAME .
 akcjebetra.pl CNAME .
@@ -11425,6 +11439,7 @@ analoguemi.pl CNAME .
 andzia.com.pl CNAME .
 anedeline.com CNAME .
 ankiety-tv.pl CNAME .
+anonymitie.pl CNAME .
 anorthosit.pl CNAME .
 ansinsklep.pl CNAME .
 antares.trade CNAME .
@@ -11559,6 +11574,7 @@ bys.polss.xyz CNAME .
 bytestaxon.pl CNAME .
 b-time.online CNAME .
 cabanio.store CNAME .
+cabaretsca.pl CNAME .
 cadencedsw.pl CNAME .
 calkinpule.pl CNAME .
 calykindsa.tk CNAME .
@@ -11670,6 +11686,8 @@ deckorgan.com CNAME .
 declension.pl CNAME .
 decoratora.pl CNAME .
 defenestra.pl CNAME .
+degageeigh.pl CNAME .
+degumwatch.pl CNAME .
 del.korto.xyz CNAME .
 demiverse.com CNAME .
 demoncmon.com CNAME .
@@ -11681,6 +11699,7 @@ derive.in.net CNAME .
 desoxysewe.pl CNAME .
 despolska.xyz CNAME .
 deviantsra.pl CNAME .
+devotemen.com CNAME .
 dgebq.csb.app CNAME .
 dgtmarket.com CNAME .
 dhl-parcel.co CNAME .
@@ -11688,6 +11707,7 @@ dibarbado.com CNAME .
 dichasialq.pl CNAME .
 diddleycom.pl CNAME .
 diddleyson.pl CNAME .
+dimmingflo.pl CNAME .
 dingohapht.pl CNAME .
 disceord.gift CNAME .
 discocrd.gift CNAME .
@@ -11698,6 +11718,7 @@ discsplay.com CNAME .
 disocrde.gift CNAME .
 disocrds.gift CNAME .
 dispersers.pl CNAME .
+distorters.pl CNAME .
 dividendle.pl CNAME .
 dlaludzi.site CNAME .
 dlaogrodu.com CNAME .
@@ -11710,6 +11731,7 @@ donvijeitv.pl CNAME .
 doorknobda.pl CNAME .
 dopomoga.tech CNAME .
 dottedepil.pl CNAME .
+doutsafey.com CNAME .
 downwashpe.pl CNAME .
 dpdpickuq.top CNAME .
 dpd-info.info CNAME .
@@ -11766,6 +11788,7 @@ fabfloors.com CNAME .
 fabnxmklka.pl CNAME .
 fabnxmkska.pl CNAME .
 facebook-l.pl CNAME .
+facticityg.pl CNAME .
 fad.ppaco.xyz CNAME .
 fadisto.store CNAME .
 fajny887.site CNAME .
@@ -11814,6 +11837,7 @@ fraiderex.com CNAME .
 freakshub.com CNAME .
 freenitrol.ru CNAME .
 freeposta.xyz CNAME .
+freewheele.pl CNAME .
 frequences.pl CNAME .
 frigmezere.pl CNAME .
 frouncingp.pl CNAME .
@@ -11844,6 +11868,8 @@ geomapper.com CNAME .
 geonsow.space CNAME .
 george-co.com CNAME .
 georgina.tech CNAME .
+getaccentu.pl CNAME .
+gigabitcis.pl CNAME .
 giuliodrei.it CNAME .
 gledpalapa.pl CNAME .
 gleization.pl CNAME .
@@ -11881,16 +11907,20 @@ hairdressi.de CNAME .
 hairosk.space CNAME .
 hajoopteg.com CNAME .
 haldomiate.pl CNAME .
+hamzahlega.pl CNAME .
 hanabishi.net CNAME .
 handelpro.com CNAME .
 handelpro.vip CNAME .
 harpyforer.pl CNAME .
 has.gaznf.xyz CNAME .
+hashcontri.pl CNAME .
 hav.gaznf.xyz CNAME .
 hax.gaznf.xyz CNAME .
 haz.gaznf.xyz CNAME .
+heedfullyh.pl CNAME .
 helicities.pl CNAME .
 heredaf.space CNAME .
+hernize.space CNAME .
 heroicalun.pl CNAME .
 heroicomic.pl CNAME .
 hersokler.com CNAME .
@@ -11898,6 +11928,7 @@ hesterfo.site CNAME .
 hexedsewan.pl CNAME .
 hhi.gaznf.xyz CNAME .
 hippiebisk.pl CNAME .
+hofordvofe.ga CNAME .
 holona.online CNAME .
 honoreekun.pl CNAME .
 hornstautl.pl CNAME .
@@ -11992,14 +12023,17 @@ jimaona.store CNAME .
 joehuergo.com CNAME .
 joshc1224.com CNAME .
 juaremovie.pl CNAME .
+jubhahsfla.pl CNAME .
 just-twoje.eu CNAME .
 juzkielce.xyz CNAME .
 juzkrakow.xyz CNAME .
 juzlublin.xyz CNAME .
 juzpoznan.xyz CNAME .
+kaiserismi.pl CNAME .
 kalkfilter.se CNAME .
 kamery112.xyz CNAME .
 kan.gaznf.xyz CNAME .
+kantledga.com CNAME .
 karatubnb.com CNAME .
 karencupp.com CNAME .
 kartowkop.xyz CNAME .
@@ -12037,6 +12071,7 @@ lalasagna.com CNAME .
 lancinateu.pl CNAME .
 laneskolan.se CNAME .
 lapiemy24h.eu CNAME .
+larvicideh.pl CNAME .
 lavacross.com CNAME .
 lclbank.yj.fr CNAME .
 lcloud.com.im CNAME .
@@ -12073,6 +12108,7 @@ los.polss.xyz CNAME .
 lotos.website CNAME .
 lotos-cv.work CNAME .
 lotsnews.info CNAME .
+lovejavepa.cf CNAME .
 lpkobiznes.uk CNAME .
 lukaszsoja.pl CNAME .
 luknijfilm.pl CNAME .
@@ -12111,6 +12147,7 @@ mib.slopp.xyz CNAME .
 microelect.pl CNAME .
 midweekssp.pl CNAME .
 mil-gov.space CNAME .
+minutedsem.pl CNAME .
 mirohost.site CNAME .
 misguidedn.pl CNAME .
 mobbismsoy.pl CNAME .
@@ -12235,6 +12272,7 @@ opkropcst.com CNAME .
 oprmoipst.com CNAME .
 oproapgst.com CNAME .
 oprodopst.com CNAME .
+order394.info CNAME .
 orl1-inv.work CNAME .
 orlen.digital CNAME .
 orlencorp.biz CNAME .
@@ -12268,6 +12306,7 @@ palancica.com CNAME .
 pan.wetss.xyz CNAME .
 pap.ppaco.xyz CNAME .
 papabilly.com CNAME .
+parenthesi.pl CNAME .
 parkhiker.com CNAME .
 partityoni.pl CNAME .
 pastepozh.xyz CNAME .
@@ -12314,6 +12353,7 @@ pekao-bank.co CNAME .
 pekao-bank.io CNAME .
 pekao-pl.site CNAME .
 peliculas3.me CNAME .
+peltriesfr.pl CNAME .
 peransgold.ir CNAME .
 perfumella.pl CNAME .
 perturbssu.pl CNAME .
@@ -12385,6 +12425,7 @@ porwani-wp.eu CNAME .
 postillery.se CNAME .
 potterfeed.pl CNAME .
 pouchymism.pl CNAME .
+pourparler.pl CNAME .
 pozyczac.site CNAME .
 praca4you.com CNAME .
 prefrozenc.pl CNAME .
@@ -12395,6 +12436,7 @@ pretension.pl CNAME .
 pretorcabi.pl CNAME .
 pretrimund.pl CNAME .
 prettyliu.com CNAME .
+primatolog.pl CNAME .
 prodenerg.cfd CNAME .
 prodenerg.ink CNAME .
 prodenerg.lol CNAME .
@@ -12449,6 +12491,7 @@ rehumanize.pl CNAME .
 rejestr.5p.pl CNAME .
 relayimmo.com CNAME .
 reliablene.pl CNAME .
+remonstran.pl CNAME .
 ren.losta.xyz CNAME .
 rendergras.pl CNAME .
 renegotiat.pl CNAME .
@@ -12494,6 +12537,7 @@ safe-offer.co CNAME .
 safe-pay.info CNAME .
 samxtrade.com CNAME .
 san.wetss.xyz CNAME .
+sandblaste.pl CNAME .
 sandklif.host CNAME .
 sanguinely.pl CNAME .
 saonlir.space CNAME .
@@ -12545,6 +12589,7 @@ slony940.site CNAME .
 sluxurybk.com CNAME .
 smartcloud.ps CNAME .
 smiechawka.eu CNAME .
+smoothbore.pl CNAME .
 sms-clear.xyz CNAME .
 sms-sell.info CNAME .
 smushgame.com CNAME .
@@ -12583,8 +12628,10 @@ starfruitn.pl CNAME .
 startuppge.us CNAME .
 startwail.com CNAME .
 starzfilm.com CNAME .
+stationere.pl CNAME .
 statusplat.pl CNAME .
 stefaniakl.pl CNAME .
+stickfulsu.pl CNAME .
 stockrooms.pl CNAME .
 stocksons.com CNAME .
 stormgain.com CNAME .
@@ -12676,6 +12723,7 @@ transpierc.pl CNAME .
 trans-act.com CNAME .
 trdreview.com CNAME .
 trepmesthu.ml CNAME .
+trichologi.pl CNAME .
 trolek.com.pl CNAME .
 troutlet.buzz CNAME .
 truegamers.ga CNAME .
@@ -12708,7 +12756,10 @@ unlovablem.pl CNAME .
 unlovablep.pl CNAME .
 unpreposse.pl CNAME .
 unsignedap.pl CNAME .
+unstablerq.pl CNAME .
+unteachab.xyz CNAME .
 untefineds.pl CNAME .
+untracedmo.pl CNAME .
 unwrinkles.de CNAME .
 urk.wtrst.com CNAME .
 utageya.co.jp CNAME .
@@ -12836,6 +12887,7 @@ waycacoke.com CNAME .
 waycocoke.com CNAME .
 waycoloke.com CNAME .
 waznespraw.eu CNAME .
+weakonweak.pl CNAME .
 wearproofs.pl CNAME .
 webers-mn.com CNAME .
 webfootrec.pl CNAME .
@@ -12898,6 +12950,7 @@ xednsk.online CNAME .
 xfh-text.club CNAME .
 xoxolexo.site CNAME .
 x-hosepl2.com CNAME .
+x.ico-app.xyz CNAME .
 yah.gaznf.xyz CNAME .
 yapperphyt.pl CNAME .
 yarenquiri.pl CNAME .
@@ -13953,6 +14006,7 @@ down.rxgif.cn CNAME .
 f.gogamef.com CNAME .
 famesa.com.ar CNAME .
 formedable.nl CNAME .
+garage891.com CNAME .
 gt-max.com.my CNAME .
 h.epelcdn.com CNAME .
 hepsisifa.com CNAME .
@@ -13960,15 +14014,12 @@ hitstation.nl CNAME .
 htownbars.com CNAME .
 imenikala.com CNAME .
 indonesias.me CNAME .
-intecilab.com CNAME .
 jointings.org CNAME .
 jrfurnace.com CNAME .
 justplay.asia CNAME .
 kafei.528k.cn CNAME .
 karimgousa.ug CNAME .
-kazirafiq.com CNAME .
 kokfinance.nl CNAME .
-kuluckaci.com CNAME .
 lambweston.ga CNAME .
 lceventos.net CNAME .
 lightomech.in CNAME .
@@ -13978,6 +14029,7 @@ marksidfgs.ug CNAME .
 misterson.com CNAME .
 mncarteam.com CNAME .
 moorworld.com CNAME .
+mosacor.co.za CNAME .
 mulmatdol.com CNAME .
 newgoplus.com CNAME .
 noonimpex.com CNAME .
@@ -13990,8 +14042,9 @@ primefind.com CNAME .
 propsource.in CNAME .
 pv-energy.net CNAME .
 redmag-dz.com CNAME .
-sainzim.co.za CNAME .
-sebastiank.tk CNAME .
+safetygear.pk CNAME .
+sayminame.com CNAME .
+scientific.pk CNAME .
 setarhome.com CNAME .
 shunda321.com CNAME .
 spices.com.sg CNAME .
@@ -15871,6 +15924,7 @@ aloofsmar.site CNAME .
 alpainvest.com CNAME .
 amunelfihou.ml CNAME .
 analystset.com CNAME .
+ando-gal.space CNAME .
 anewordeal.top CNAME .
 ani-ar.web.app CNAME .
 ani-or.web.app CNAME .
@@ -15878,6 +15932,7 @@ annenskis.info CNAME .
 anuriacryp.xyz CNAME .
 apcmassage.com CNAME .
 apex-rents.com CNAME .
+appendsple.xyz CNAME .
 applesite.live CNAME .
 apple-login.in CNAME .
 appsdorado.com CNAME .
@@ -15899,14 +15954,20 @@ as-pwo.web.app CNAME .
 athlete246.com CNAME .
 atichota.space CNAME .
 attiora.uk.com CNAME .
+avertingde.com CNAME .
 axemorketr.com CNAME .
 axnzsvmz.rf.gd CNAME .
 azcybersec.com CNAME .
+bac.roonss.xyz CNAME .
 baggerbagg.xyz CNAME .
 bal.roonss.xyz CNAME .
+balefullyj.com CNAME .
+balo.ballt.xyz CNAME .
 balt.zostt.xyz CNAME .
+bam.roonss.xyz CNAME .
 baronwines.net CNAME .
 barrellink.com CNAME .
+baz.roonss.xyz CNAME .
 beingteach.com CNAME .
 berchi.website CNAME .
 bersadshop.com CNAME .
@@ -15926,10 +15987,13 @@ bisnitaturk.pl CNAME .
 bitcoinera.app CNAME .
 bitcointime.pw CNAME .
 bitconvert.bar CNAME .
+bitindexai.com CNAME .
+bitindexai.top CNAME .
 bit-pl.web.app CNAME .
 blebbingco.com CNAME .
 blockkrado.com CNAME .
 blog.cnbhu.com CNAME .
+bloodworts.xyz CNAME .
 blotchingu.com CNAME .
 bluebillsb.com CNAME .
 blushpixel.com CNAME .
@@ -15943,9 +16007,11 @@ bodymiasma.com CNAME .
 bolt-food.site CNAME .
 bombcrypto.biz CNAME .
 bon-darmowy.pl CNAME .
+bookpsounpo.ml CNAME .
 bort.pollt.xyz CNAME .
 borysancor.com CNAME .
 borysek.com.pl CNAME .
+boughlessl.com CNAME .
 brabos.website CNAME .
 brantpress.com CNAME .
 breasenadar.gq CNAME .
@@ -15977,9 +16043,11 @@ cd-uni.web.app CNAME .
 cedseasonal.pl CNAME .
 centrumplay.pl CNAME .
 ceskaposta.org CNAME .
+cestosresi.com CNAME .
 chaneynail.com CNAME .
 chequeroby.com CNAME .
 chipilines.com CNAME .
+chivariedu.com CNAME .
 chreggomat.xyz CNAME .
 chuansong.buzz CNAME .
 ciesielsksi.pl CNAME .
@@ -16004,10 +16072,12 @@ compressio.xyz CNAME .
 conjuratio.xyz CNAME .
 contlers.space CNAME .
 cordwoods.info CNAME .
+coreenquir.com CNAME .
 cotgonseed.com CNAME .
 cotton-tod.com CNAME .
 couldestbr.com CNAME .
 countervai.xyz CNAME .
+countyhoda.com CNAME .
 courseorlen.us CNAME .
 covidpagos.xyz CNAME .
 credisales.com CNAME .
@@ -16018,11 +16088,13 @@ crm.nomarc.com CNAME .
 crommelin.info CNAME .
 cryb.mostt.xyz CNAME .
 cryplister.com CNAME .
+cryptergen.com CNAME .
 cryptofxts.com CNAME .
 cudbearpre.xyz CNAME .
 cufs-vulcan.pl CNAME .
 cultlikecu.xyz CNAME .
 cuppals.coffee CNAME .
+cw-trk.y4hl.in CNAME .
 czaspolski.bar CNAME .
 czasy-zmian.eu CNAME .
 czas-wyboru.eu CNAME .
@@ -16098,6 +16170,7 @@ dzienbytom.xyz CNAME .
 earth-mgmt.com CNAME .
 echo-nomic.com CNAME .
 ecofin.website CNAME .
+ecraseurim.com CNAME .
 ecstasynon.xyz CNAME .
 edenchoice.com CNAME .
 educ-idea.site CNAME .
@@ -16113,6 +16186,7 @@ elysium130.com CNAME .
 email-cloud.co CNAME .
 enamelingh.xyz CNAME .
 endocrinol.xyz CNAME .
+endomitosi.xyz CNAME .
 energyclub.xyz CNAME .
 energylanda.pl CNAME .
 enerreplo.site CNAME .
@@ -16225,6 +16299,7 @@ gg-inw.web.app CNAME .
 ghanadates.com CNAME .
 giftinguru.com CNAME .
 gigachains.com CNAME .
+giga-bonus.xyz CNAME .
 giqinv.web.app CNAME .
 girdinggla.xyz CNAME .
 gls-parcel.com CNAME .
@@ -16242,6 +16317,7 @@ got-un.web.app CNAME .
 gougesunab.xyz CNAME .
 grabahobby.com CNAME .
 grabruckthe.cf CNAME .
+grasslikec.com CNAME .
 greenso.com.vn CNAME .
 grouporlen.biz CNAME .
 group-orlen.us CNAME .
@@ -16291,18 +16367,21 @@ iaracrewood.pl CNAME .
 icloud-find.co CNAME .
 ideaenvied.com CNAME .
 idea-educ.site CNAME .
+idupciobrad.tk CNAME .
 id.my-1235.xyz CNAME .
 ifoneguard.com CNAME .
 ikko-pkobp.com CNAME .
 iklertgera.com CNAME .
 iko-pkobps.com CNAME .
 iko-secure.com CNAME .
+illogicssp.com CNAME .
 image-obraz.eu CNAME .
 impedanceg.xyz CNAME .
 impedancep.xyz CNAME .
 imus.pollt.xyz CNAME .
 inchedalord.pl CNAME .
 inconformi.xyz CNAME .
+incontinen.com CNAME .
 inesmanila.com CNAME .
 infectantt.xyz CNAME .
 infofakty24.pl CNAME .
@@ -16370,6 +16449,7 @@ jak-pw.web.app CNAME .
 jarhivs.online CNAME .
 jd990i.web.app CNAME .
 jetshorka.info CNAME .
+jikolods.space CNAME .
 jilarohtas.com CNAME .
 jimmieslob.xyz CNAME .
 jj81pq.web.app CNAME .
@@ -16420,6 +16500,7 @@ lambastedl.xyz CNAME .
 lambastedu.xyz CNAME .
 lavozunida.com CNAME .
 lebonmoral.com CNAME .
+lechersmon.com CNAME .
 leeyongwoo.com CNAME .
 lepszeoceny.pl CNAME .
 lew.roonss.xyz CNAME .
@@ -16471,6 +16552,7 @@ marshtrade.com CNAME .
 martikets.info CNAME .
 matiaut.com.pl CNAME .
 maturemile.com CNAME .
+maz.kostaa.xyz CNAME .
 mazandarane.ir CNAME .
 ma-pol.web.app CNAME .
 mbankpl.online CNAME .
@@ -16483,6 +16565,7 @@ megagalore.com CNAME .
 menabujera.com CNAME .
 merdeglace.net CNAME .
 miasto.pila.pl CNAME .
+microbeirr.com CNAME .
 migemensio.com CNAME .
 militanttra.at CNAME .
 mindhackfir.tk CNAME .
@@ -16551,6 +16634,7 @@ nocrzeszow.xyz CNAME .
 nocwroclaw.xyz CNAME .
 nodeschool.com CNAME .
 nokillesa.link CNAME .
+nondeferra.xyz CNAME .
 nonliquidg.xyz CNAME .
 nonliquidi.xyz CNAME .
 novobrokers.io CNAME .
@@ -16657,6 +16741,7 @@ organicble.top CNAME .
 orlen2030.club CNAME .
 orlenbenz.info CNAME .
 orlengroup.biz CNAME .
+orlennew.space CNAME .
 orlenpltfm.com CNAME .
 orlenpray.site CNAME .
 orlenprofit.us CNAME .
@@ -16716,6 +16801,7 @@ pa-wos.web.app CNAME .
 pcom-l.web.app CNAME .
 pelageally.xyz CNAME .
 persongiv.site CNAME .
+pettlescog.com CNAME .
 pgeinv-pl.info CNAME .
 pgeobrot.click CNAME .
 pgepl-inv.info CNAME .
@@ -16771,6 +16857,7 @@ pokazowka.site CNAME .
 polandnews.biz CNAME .
 policja-997.pl CNAME .
 politerule.com CNAME .
+politicisi.com CNAME .
 poli-q.web.app CNAME .
 poli-s.web.app CNAME .
 poli-w.web.app CNAME .
@@ -16787,6 +16874,7 @@ pomagajmypl.pl CNAME .
 pomagampl.site CNAME .
 pomoc24.waw.pl CNAME .
 pornappeal.com CNAME .
+portal.p1hc.in CNAME .
 porwali-tu.xyz CNAME .
 poscig996.rest CNAME .
 posrednikow.pl CNAME .
@@ -16818,6 +16906,7 @@ psinetutor.com CNAME .
 psiquecare.com CNAME .
 pt.orogdq1.xyz CNAME .
 ptrcww-upqs.us CNAME .
+pulvinarun.com CNAME .
 pyhgzr-uqps.us CNAME .
 pyroxenoid.xyz CNAME .
 q6ie81.web.app CNAME .
@@ -16841,6 +16930,7 @@ repairmadi.com CNAME .
 reppos-urps.co CNAME .
 req-in.web.app CNAME .
 rervensone.xyz CNAME .
+resitresit.com CNAME .
 retimonteri.ga CNAME .
 reutilized.xyz CNAME .
 reveal-app.com CNAME .
@@ -16851,6 +16941,7 @@ ringcunthio.gq CNAME .
 rmfinfo.waw.pl CNAME .
 road2gold.site CNAME .
 roanconsol.top CNAME .
+rob.roonss.xyz CNAME .
 robotnikw.site CNAME .
 rollingfhr.xyz CNAME .
 rozumiem-to.eu CNAME .
@@ -17011,6 +17102,7 @@ t03uyr.web.app CNAME .
 takiezyciee.eu CNAME .
 tak-jest.click CNAME .
 talkusadoc.com CNAME .
+tampandeli.com CNAME .
 tart.slopp.xyz CNAME .
 taylorspub.com CNAME .
 tcpmarkets.com CNAME .
@@ -17043,6 +17135,7 @@ thrashesun.xyz CNAME .
 threatdisli.tk CNAME .
 thrombocyt.com CNAME .
 tifanmor.space CNAME .
+timberedde.com CNAME .
 tiomarkets.com CNAME .
 tissasumque.cf CNAME .
 tk-llp.web.app CNAME .
@@ -17069,6 +17162,7 @@ tradetesla.biz CNAME .
 trade-labs.com CNAME .
 trampolina.biz CNAME .
 transmisso.xyz CNAME .
+travoisese.com CNAME .
 trener688.rest CNAME .
 tripolishy.xyz CNAME .
 troughspre.xyz CNAME .
@@ -17129,11 +17223,13 @@ vebonu.website CNAME .
 venosevort.xyz CNAME .
 verchefulge.ga CNAME .
 verpelisgo.com CNAME .
+versetstai.xyz CNAME .
 vestelera.site CNAME .
 videoplanet.pl CNAME .
 videostape.com CNAME .
 vipshorka.info CNAME .
 viverridso.xyz CNAME .
+vodouskoin.com CNAME .
 vokerarcan.com CNAME .
 voltaundef.com CNAME .
 vvwvicloud.com CNAME .
@@ -17166,6 +17262,7 @@ wiesc4030.site CNAME .
 wiesc4105.site CNAME .
 wiesc5526.site CNAME .
 wiesc7105.site CNAME .
+winnight.space CNAME .
 wiochowisko.eu CNAME .
 wirtualne24.eu CNAME .
 witchings.info CNAME .
@@ -17226,6 +17323,7 @@ znajdz-sens.eu CNAME .
 znany-temat.pl CNAME .
 zobacz-film.pl CNAME .
 zonked862.site CNAME .
+zosfekow.space CNAME .
 zovemedia.buzz CNAME .
 zrzut-fotki.eu CNAME .
 zuceisseru.com CNAME .
@@ -18221,11 +18319,9 @@ nsis.bisrv.com CNAME .
 aayushakti.com CNAME .
 abbmedikal.com CNAME .
 alsafwa.com.ly CNAME .
-anguianoss.com CNAME .
 appyhorsey.com CNAME .
 artursemth.com CNAME .
 arushagems.com CNAME .
-astargroup.com CNAME .
 b.game2723.com CNAME .
 backgrounds.pk CNAME .
 caioaraujo.vip CNAME .
@@ -18234,14 +18330,11 @@ charisma.ac.ug CNAME .
 chuckozeas.com CNAME .
 clipgroups.com CNAME .
 datainline.com CNAME .
-derioswinf.org CNAME .
-dl-cdn.wywk.cn CNAME .
-down.yjhyjl.cn CNAME .
+ddlakava.ac.ug CNAME .
 funletters.net CNAME .
 globartmag.com CNAME .
 gnnmuebles.com CNAME .
 gotovacoil.com CNAME .
-gxthanhtam.com CNAME .
 honours.com.ng CNAME .
 hotelhadieh.ir CNAME .
 ideaplusjal.in CNAME .
@@ -18250,8 +18343,8 @@ instratghs.com CNAME .
 krusevo.gov.mk CNAME .
 kutegiagoc.com CNAME .
 latinaked.club CNAME .
+lobazedeke.com CNAME .
 masteret.co.za CNAME .
-meonhanong.com CNAME .
 mysouthbay.com CNAME .
 nazreghadir.ir CNAME .
 nenlineasv.com CNAME .
@@ -20480,6 +20573,7 @@ babofashion.com CNAME .
 bahamasbaby.com CNAME .
 baisopdrohra.tk CNAME .
 balans-zycia.eu CNAME .
+baliz.ballt.xyz CNAME .
 ball.roonss.xyz CNAME .
 bandenmarkt.com CNAME .
 bangunpapua.com CNAME .
@@ -20522,6 +20616,7 @@ botulinwags.com CNAME .
 bpd.paynet1.xyz CNAME .
 br3.ifnprog.xyz CNAME .
 breadkgrief.com CNAME .
+brightglows.com CNAME .
 br-stone.online CNAME .
 btcpolskapl.com CNAME .
 budgetiptoe.com CNAME .
@@ -20865,6 +20960,7 @@ kbdemolering.se CNAME .
 keeotinoger.com CNAME .
 kek-technik.com CNAME .
 kememullougi.ml CNAME .
+kenyanmatch.com CNAME .
 kevin-yousef.se CNAME .
 kghm-metal.bond CNAME .
 kghm-pl.monster CNAME .
@@ -20879,6 +20975,7 @@ kionfxtrade.com CNAME .
 kitforter.space CNAME .
 klisinprovac.ga CNAME .
 kontakt24.xn.pl CNAME .
+konto-onet.site CNAME .
 kookingclub.com CNAME .
 korekkolor.site CNAME .
 korkotchenko.pw CNAME .
@@ -20899,6 +20996,7 @@ l2royalties.com CNAME .
 lamantino.space CNAME .
 lauraboerci.com CNAME .
 laykomisja.site CNAME .
+lcloud-soft.com CNAME .
 lebaneseads.com CNAME .
 lewa.roonss.xyz CNAME .
 lewn.roonss.xyz CNAME .
@@ -21242,6 +21340,7 @@ planetgyaan.com CNAME .
 playallthis.com CNAME .
 playhdmovie.xyz CNAME .
 playvalheim.com CNAME .
+plkhgqw.web.app CNAME .
 plnewspgnig.com CNAME .
 pln-online.site CNAME .
 plofertaorl.com CNAME .
@@ -21516,6 +21615,7 @@ theesraerol.com CNAME .
 thegrupa.online CNAME .
 tibiaboards.com CNAME .
 ticketpure.info CNAME .
+tim.ico-app.xyz CNAME .
 tobydevblog.com CNAME .
 tolaoladiji.com CNAME .
 tomuh.page.link CNAME .
@@ -21535,6 +21635,7 @@ tricalmusic.com CNAME .
 trk.adtrk18.com CNAME .
 trknsm-uaqs.one CNAME .
 trkqsd-uqqs.one CNAME .
+truecarinfo.com CNAME .
 trueshorka.info CNAME .
 trust-b.web.app CNAME .
 trust-orlen.biz CNAME .
@@ -21606,6 +21707,7 @@ vwtd-shrt.click CNAME .
 v-gaz.gaznf.xyz CNAME .
 wakyucuofke.com CNAME .
 wallpaperze.com CNAME .
+wallpaperzo.com CNAME .
 waszagdynia.xyz CNAME .
 waxyocxonke.com CNAME .
 waznefakty24.pl CNAME .
@@ -22611,9 +22713,11 @@ c.oooooooooo.ga CNAME .
 chezalice.co.za CNAME .
 cis-tunisie.com CNAME .
 cloudsoft.or.ke CNAME .
+destinymc.co.za CNAME .
 drjasonneuro.in CNAME .
 dulhagharnh.com CNAME .
 forgione.com.ar CNAME .
+gokcevizyon.com CNAME .
 gs.monerorx.com CNAME .
 incredicole.com CNAME .
 jcnetsghana.com CNAME .
@@ -22634,6 +22738,7 @@ perfectguard.hu CNAME .
 petparadise.biz CNAME .
 protechasia.com CNAME .
 sareeshaper.com CNAME .
+senbiaojita.com CNAME .
 ss.monita.co.id CNAME .
 tanlayseong.com CNAME .
 tg8.imuillj.com CNAME .
@@ -24884,10 +24989,12 @@ bitcoinprime.org CNAME .
 bitcoinup.com.pl CNAME .
 bitcoin-prime.io CNAME .
 bitcoin-pro.live CNAME .
+bitindexprime.io CNAME .
 bitwa-opodium.eu CNAME .
 biznes-24.waw.pl CNAME .
 bi-bussines.site CNAME .
 blessapprove.com CNAME .
+blog-pl.jxpl.xyz CNAME .
 blutebunichan.ga CNAME .
 boffosboffos.com CNAME .
 boltsnapbolt.com CNAME .
@@ -24923,6 +25030,7 @@ cennyowinac.site CNAME .
 centrum24-app.cc CNAME .
 centrum24-app.pl CNAME .
 centrum-badan.pl CNAME .
+cet.megamaxi.xyz CNAME .
 cetoghoripidd.gq CNAME .
 cg11959.tmweb.ru CNAME .
 chalkmutual.info CNAME .
@@ -25128,6 +25236,7 @@ govpermanent.com CNAME .
 gpl.typstade.xyz CNAME .
 grandcapital.net CNAME .
 granite-karl.com CNAME .
+graz.ico-app.xyz CNAME .
 greencafenow.com CNAME .
 greentechits.com CNAME .
 gremlimes9.in.ua CNAME .
@@ -25138,6 +25247,7 @@ grupspace.sa.com CNAME .
 gr.azoty-pl.site CNAME .
 gsp.typstade.xyz CNAME .
 guboshlepa.email CNAME .
+hafikonsid.space CNAME .
 haifapudding.com CNAME .
 hallowed178.site CNAME .
 hallowhallow.xyz CNAME .
@@ -25153,6 +25263,7 @@ helptoday658.bar CNAME .
 hexistrading.com CNAME .
 hezinvesting.xyz CNAME .
 historie-nowe.co CNAME .
+hk.tryregnow.xyz CNAME .
 hlestersmith.com CNAME .
 holaenergy.click CNAME .
 homestoretpg.com CNAME .
@@ -25213,6 +25324,7 @@ isspp.weebly.com CNAME .
 iwent-cd.web.app CNAME .
 jadowity458.site CNAME .
 jdpd.id-43895.me CNAME .
+jll.megamaxi.xyz CNAME .
 jnpost.32541.xyz CNAME .
 jodhsvilmalna.tk CNAME .
 jonasbeckman.com CNAME .
@@ -25315,6 +25427,7 @@ mariola180.co.pl CNAME .
 marketbull.co.uk CNAME .
 marshtrading.ltd CNAME .
 masks.cryp-b.xyz CNAME .
+mass.maxuziz.xyz CNAME .
 mastersummer.fun CNAME .
 mattleaching.com CNAME .
 matureamount.top CNAME .
@@ -25442,6 +25555,7 @@ oklindorel.store CNAME .
 oksioninvest.pro CNAME .
 olx.manager.name CNAME .
 olx.paysafe.site CNAME .
+olx.worlabyr.org CNAME .
 olx-d.id-3489.me CNAME .
 olx-m.id-9843.me CNAME .
 olx-order76.site CNAME .
@@ -25522,6 +25636,7 @@ otwarte24.com.pl CNAME .
 ot-directory.com CNAME .
 overcreative.com CNAME .
 ozzywebsites.com CNAME .
+p0landcd.web.app CNAME .
 packsitracks.com CNAME .
 paramapparel.com CNAME .
 paribas-login.co CNAME .
@@ -25557,6 +25672,7 @@ playhdmovies.com CNAME .
 playstation-5.pl CNAME .
 plejada24.online CNAME .
 pletomak.mypi.co CNAME .
+plinvest.web.app CNAME .
 plinv-pl.web.app CNAME .
 plnd-invest.site CNAME .
 plnd-online.site CNAME .
@@ -25853,6 +25969,7 @@ torento-sklep.pl CNAME .
 torrenty--org.pl CNAME .
 tp.coin-mark.xyz CNAME .
 trachitises.info CNAME .
+track-fs.p5kz.in CNAME .
 tradebaionics.io CNAME .
 tradebitedge.com CNAME .
 tradecoinsfx.com CNAME .
@@ -25880,6 +25997,7 @@ twoje-zdjecia.eu CNAME .
 twoj-onet.waw.pl CNAME .
 tyczenie127.site CNAME .
 udanyprojekt.com CNAME .
+umas.maxuziz.xyz CNAME .
 unas-wmiescie.eu CNAME .
 underdodrat.info CNAME .
 under-polsk.live CNAME .
@@ -26011,6 +26129,7 @@ zmeczonyton.site CNAME .
 znajome-fotki.eu CNAME .
 znudzony081.site CNAME .
 zobaczmy-fote.eu CNAME .
+zrobimy-fotke.eu CNAME .
 zrzut-zdjecie.eu CNAME .
 zwierzeta-olx.pl CNAME .
 zxq.mc-unlim.xyz CNAME .
@@ -27049,7 +27168,6 @@ drjaralampos.com CNAME .
 dzairvoyages.com CNAME .
 evoluicursos.com CNAME .
 excelsales.co.in CNAME .
-expansion360.net CNAME .
 facelimpa.com.br CNAME .
 howesitgoing.com CNAME .
 jacquieclark.com CNAME .
@@ -27068,7 +27186,6 @@ patch2.99ddd.com CNAME .
 pcsolutionss.com CNAME .
 pharmakoehnen.ga CNAME .
 portugalguide.de CNAME .
-regenerations.eu CNAME .
 rogerschultz.com CNAME .
 seniorweekoc.net CNAME .
 sindicato1ucm.cl CNAME .
@@ -27082,11 +27199,10 @@ wijsneusmedia.nl CNAME .
 wildnights.co.uk CNAME .
 www.dacui.online CNAME .
 www.enc-tech.com CNAME .
-www.ens-setif.dz CNAME .
 www.kjcpromo.com CNAME .
 www.maxmoney.com CNAME .
+www.vilajuga.org CNAME .
 www.ysbaojia.com CNAME .
-zarzamora.com.mx CNAME .
 ztekkhosting.com CNAME .
 absentstream.com CNAME .
 ad.keenspace.com CNAME .
@@ -29508,6 +29624,7 @@ y4681.6128786.com CNAME .
 979c7-uppps.click CNAME .
 abra-sklep.com.pl CNAME .
 accmetaprotec.com CNAME .
+adam.megamaxi.xyz CNAME .
 adblue-finder.com CNAME .
 adorocozinhar.com CNAME .
 advance-leg.space CNAME .
@@ -29552,6 +29669,7 @@ ayh389f0ifhuj.bar CNAME .
 bangkokmobbed.com CNAME .
 bankmellennium.pl CNAME .
 barriergutter.com CNAME .
+bbasy.maxuziz.xyz CNAME .
 bc.chainreact.xyz CNAME .
 bd1.smartcheck.vn CNAME .
 bernleftheater.nl CNAME .
@@ -29567,6 +29685,7 @@ biryakarambol.com CNAME .
 bit3cexchange.com CNAME .
 bitcoineranew.com CNAME .
 bitcoinerapro.com CNAME .
+bitcoinpolska.org CNAME .
 bitcoinprime.info CNAME .
 bitcoinup-pro.com CNAME .
 bitcoin-prime.app CNAME .
@@ -29705,7 +29824,9 @@ dlscordnitros.com CNAME .
 dlsscord-gift.com CNAME .
 dobre-info.waw.pl CNAME .
 dompodarunkow.com CNAME .
+domyslna-fotka.eu CNAME .
 donvijeitv.com.pl CNAME .
+dorm.megamaxi.xyz CNAME .
 dostawa-info.cyou CNAME .
 dostawa-inpost.pl CNAME .
 dostaw-inpost.net CNAME .
@@ -29740,6 +29861,7 @@ eup.app-copl.site CNAME .
 eurocallcenter.pl CNAME .
 european-news.org CNAME .
 eus.max1m1zer.xyz CNAME .
+eut.co-app-eu.xyz CNAME .
 excentral-int.com CNAME .
 exittheempire.com CNAME .
 expatsgeorgia.com CNAME .
@@ -29756,6 +29878,7 @@ fantastic-gas.com CNAME .
 fan-budimex1.info CNAME .
 fbdogfoodbeta.com CNAME .
 fbpay.orogdq1.xyz CNAME .
+feastcomment.info CNAME .
 festeatemashop.it CNAME .
 fileconvertpro.co CNAME .
 filedownloader.pl CNAME .
@@ -29923,6 +30046,7 @@ inpost.642649.top CNAME .
 inpost.lt-item.eu CNAME .
 instructvideo.com CNAME .
 inv.nlandings.com CNAME .
+invest1pl.web.app CNAME .
 invest2021go.info CNAME .
 investfond.online CNAME .
 investing-pl.work CNAME .
@@ -29936,6 +30060,7 @@ invests-time.info CNAME .
 invest-cd.web.app CNAME .
 inwestujepl24.xyz CNAME .
 in-poland.web.app CNAME .
+iphonelocation.us CNAME .
 iphone.ico-pl.xyz CNAME .
 ipko-biznesbp.com CNAME .
 ipko-bussines.com CNAME .
@@ -30061,6 +30186,7 @@ meldunek9356.site CNAME .
 meshuggenahs.info CNAME .
 metal-flossie.com CNAME .
 mezakimasaaki.net CNAME .
+miask.maxuziz.xyz CNAME .
 miastowazne.rf.gd CNAME .
 miejskie24.gpe.pl CNAME .
 millexpomojet.com CNAME .
@@ -30084,6 +30210,7 @@ msgvj8y-upqs.club CNAME .
 msgwfl-upqs.click CNAME .
 msphackonline.com CNAME .
 museum-offers.com CNAME .
+musij.maxuziz.xyz CNAME .
 musimy-pomagac.eu CNAME .
 my.capitalpol.xyz CNAME .
 myawesomebank.com CNAME .
@@ -30256,6 +30383,7 @@ pismo-online.tech CNAME .
 pknorlen.tilda.ws CNAME .
 pl.salaryhave.xyz CNAME .
 pl.stores2020.net CNAME .
+pl0invest.web.app CNAME .
 pl24-solid.h2g.pl CNAME .
 plaszczjasne.site CNAME .
 platformorlen.biz CNAME .
@@ -30356,6 +30484,7 @@ reactiongb095.bar CNAME .
 realpolska.online CNAME .
 recastwheelers.pl CNAME .
 receivingdata.xyz CNAME .
+redd.megamaxi.xyz CNAME .
 reef4perfumes.com CNAME .
 refutingislam.net CNAME .
 regencytower1.com CNAME .
@@ -30481,6 +30610,8 @@ sub413.trdepl.xyz CNAME .
 sub414.trdepl.xyz CNAME .
 sub416.trdepl.xyz CNAME .
 sub422.trdepl.xyz CNAME .
+sub466.stests.xyz CNAME .
+sub467.stests.xyz CNAME .
 successfulcod.icu CNAME .
 sugerowac363.rest CNAME .
 supply-id9481.net CNAME .
@@ -30509,6 +30640,7 @@ telenor.cfolks.pl CNAME .
 temperaturnik.com CNAME .
 terntraveller.com CNAME .
 terradosol.eco.br CNAME .
+terramedia.sa.com CNAME .
 tesladebtfree.biz CNAME .
 teslamusk2022.com CNAME .
 teslasecurity.biz CNAME .
@@ -30576,6 +30708,7 @@ unterlisibatch.ga CNAME .
 uppdragledning.se CNAME .
 usmiechnijsie.xyz CNAME .
 uzasadnic113.rest CNAME .
+uzbierane-foty.eu CNAME .
 uzupelniajdane.ga CNAME .
 uzupelniajdane.gq CNAME .
 v1nted.748512.xyz CNAME .
@@ -30591,6 +30724,7 @@ viewit-studio.com CNAME .
 vihted.084522.xyz CNAME .
 vimted.064512.xyz CNAME .
 vinted-order.host CNAME .
+vip.projactiv.xyz CNAME .
 vjnted.347874.xyz CNAME .
 vjnted.794215.xyz CNAME .
 vlchainlorfmq.xyz CNAME .
@@ -30602,6 +30736,7 @@ vodpremium.com.pl CNAME .
 volkin-invest.pro CNAME .
 vpncollective.com CNAME .
 vr.chainreact.xyz CNAME .
+vroff.wc-maxi.xyz CNAME .
 vulkanvegas18.com CNAME .
 walka-potyczka.eu CNAME .
 warto-zobaczyc.eu CNAME .
@@ -31858,6 +31993,7 @@ bmn.lpmpbanten.id CNAME .
 britspizzeria.com CNAME .
 bruiserbodies.com CNAME .
 classicone.com.ng CNAME .
+cloudxpnew4af.cfd CNAME .
 commune-ariana.tn CNAME .
 crecercreando.com CNAME .
 ctppuntarenas.com CNAME .
@@ -31866,7 +32002,6 @@ domesticuif.co.za CNAME .
 download.pdf00.cn CNAME .
 easyviettravel.vn CNAME .
 esquiudigital.com CNAME .
-genccagdas.com.tr CNAME .
 greenlizard.co.za CNAME .
 grupomoxin.com.do CNAME .
 helmprecision.com CNAME .
@@ -31884,13 +32019,9 @@ milanstaffing.com CNAME .
 omscoc.pappai.com CNAME .
 pacwebdesigns.com CNAME .
 primaflor-sby.com CNAME .
-rccgthebrooks.org CNAME .
-shop.mediasova.ru CNAME .
 soft.110route.com CNAME .
-strachanclark.com CNAME .
 tournhatrang.asia CNAME .
 unicorpbrunei.com CNAME .
-vibesapparels.com CNAME .
 www.moninediy.com CNAME .
 a.aproductmsg.com CNAME .
 absorbingband.com CNAME .
@@ -34171,6 +34302,7 @@ bae.chainreact.xyz CNAME .
 ballstonhotels.com CNAME .
 bankofireiand.info CNAME .
 bankofireland.live CNAME .
+bap.prostprogr.xyz CNAME .
 bau.chainreact.xyz CNAME .
 baudgly.weebly.com CNAME .
 bawicsiezabki.site CNAME .
@@ -34207,6 +34339,7 @@ bitcointrader.site CNAME .
 bitcoin-polish.com CNAME .
 bitcoin-profit.org CNAME .
 bityinvestment.com CNAME .
+bit-indexprime.app CNAME .
 biuro-detektywi.eu CNAME .
 biznesowe27-u.site CNAME .
 biznesowe32-c.site CNAME .
@@ -34241,6 +34374,7 @@ businesspower.info CNAME .
 businessproof.info CNAME .
 businesssolve.info CNAME .
 business-educ.site CNAME .
+bvs.chein-inv.site CNAME .
 bzq.chainreact.xyz CNAME .
 c2jz7f.webwave.dev CNAME .
 c6nhgk.webwave.dev CNAME .
@@ -34342,6 +34476,7 @@ droopiermurmurs.pl CNAME .
 dsosnli-market.biz CNAME .
 dukemotivation.com CNAME .
 dullestloonier.com CNAME .
+dull-domain.za.com CNAME .
 dzienbialystok.xyz CNAME .
 dzienbydgoszcz.xyz CNAME .
 dzienczerwony.site CNAME .
@@ -34357,6 +34492,7 @@ eco-financion.site CNAME .
 efssax.webwave.dev CNAME .
 egiftepremeume.com CNAME .
 electroenchufe.com CNAME .
+elonpr.maxuziz.xyz CNAME .
 elotos-inv.website CNAME .
 elzbietaelimer.com CNAME .
 emedia.mazowsze.pl CNAME .
@@ -34657,6 +34793,7 @@ liniamaterial.site CNAME .
 lista-wygranych.eu CNAME .
 litigationnet.info CNAME .
 littlebiggames.com CNAME .
+livecointrades.com CNAME .
 livepixelgames.com CNAME .
 lnkpayme.page.link CNAME .
 localshutter.store CNAME .
@@ -34672,6 +34809,7 @@ loza-pozyczka.site CNAME .
 luxurycapitals.com CNAME .
 lxyibnxiof.web.app CNAME .
 m.hungerenlist.top CNAME .
+macc.meyromaxi.xyz CNAME .
 madamesklep.com.pl CNAME .
 magadownloader.com CNAME .
 maker-banker.space CNAME .
@@ -34685,6 +34823,7 @@ make-contact.space CNAME .
 make-discuss.space CNAME .
 make-leasing.space CNAME .
 mamynadzieje.click CNAME .
+mapail.maxuziz.xyz CNAME .
 marcellopiliego.it CNAME .
 marhujanpagi.rf.gd CNAME .
 marketingifopl.com CNAME .
@@ -34742,6 +34881,9 @@ natureasremedy.com CNAME .
 neetresult2016.com CNAME .
 netstrikeforce.com CNAME .
 new.capitalpol.xyz CNAME .
+new3.eu-point.site CNAME .
+new4.eu-point.site CNAME .
+new5.eu-point.site CNAME .
 newsnowhere.online CNAME .
 news-biznes.waw.pl CNAME .
 news-week24.waw.pl CNAME .
@@ -34758,6 +34900,7 @@ nowe-informacje.pl CNAME .
 nsifqowf10iwhg.bar CNAME .
 numer-39129.online CNAME .
 nvixug.webwave.dev CNAME .
+nyny.unlim-pal.xyz CNAME .
 nyyyy.mc-unlim.xyz CNAME .
 o1fp6o.webwave.dev CNAME .
 o2-1.azureedge.net CNAME .
@@ -34769,6 +34912,7 @@ obrzydliwyhop.site CNAME .
 oczekujacy700.site CNAME .
 odblokuj945821.net CNAME .
 ofmsamfisamfoa.bar CNAME .
+ogarniemy-fotki.eu CNAME .
 ogladanie-zdjec.eu CNAME .
 olszewski.ehost.pl CNAME .
 olxpl.moneta.world CNAME .
@@ -34929,6 +35073,7 @@ quantums-trade.com CNAME .
 quintonroberts.com CNAME .
 qvaliti-invest.pro CNAME .
 qvicc.mc-unlim.xyz CNAME .
+qwert.likeprog.xyz CNAME .
 r2vsu9.webwave.dev CNAME .
 r3gnow.wixsite.com CNAME .
 rachiomyelitis.sbs CNAME .
@@ -35032,7 +35177,13 @@ sub309.plbitoc.xyz CNAME .
 sub311.plbitoc.xyz CNAME .
 sub314.plbitoc.xyz CNAME .
 sub315.plbitoc.xyz CNAME .
+sub442.mitryas.xyz CNAME .
+sub443.mitryas.xyz CNAME .
+sub444.mitryas.xyz CNAME .
 sub445.apartss.xyz CNAME .
+sub449.mitryas.xyz CNAME .
+sub452.mitryas.xyz CNAME .
+sub465.remarka.xyz CNAME .
 sukhumvithomes.com CNAME .
 sumb.maxisarts.xyz CNAME .
 sunishandresmi.com CNAME .
@@ -35116,7 +35267,9 @@ tv-powiat24.h2g.pl CNAME .
 twoje-zdrowie.club CNAME .
 twoj-onecik.waw.pl CNAME .
 twoj-powiat.waw.pl CNAME .
+txprog.maxuziz.xyz CNAME .
 uchwalony-wybor.eu CNAME .
+ukryjmy-zdjecie.eu CNAME .
 ukryte-dane.v07.pl CNAME .
 uk-stv1street.live CNAME .
 ulhvfy.webwave.dev CNAME .
@@ -36288,6 +36441,7 @@ casamuseoayerbe.co CNAME .
 ceysaenerji.com.tr CNAME .
 deborarachelle.com CNAME .
 demo.cansunoto.com CNAME .
+demo.fontecsys.net CNAME .
 ecim.azneomedia.ro CNAME .
 exitofestas.com.br CNAME .
 firestoppers.co.za CNAME .
@@ -36302,7 +36456,6 @@ loja.eulillian.com CNAME .
 longevitymeats.com CNAME .
 luminouspneuma.com CNAME .
 lupusmarketing.com CNAME .
-lutanedukasi.co.id CNAME .
 mohammadyarico.com CNAME .
 pataphysics.net.au CNAME .
 prontoperro.com.uy CNAME .
@@ -36310,6 +36463,7 @@ relaxindulge.co.nz CNAME .
 riopiscinas.com.br CNAME .
 rizwansulehria.com CNAME .
 stockmorehouse.com CNAME .
+test.fontecsys.net CNAME .
 thuexevanphong.com CNAME .
 tobecoaching.co.uk CNAME .
 www.almoeqatar.com CNAME .
@@ -36317,6 +36471,7 @@ www.cesasin.com.ar CNAME .
 www.guedala.com.br CNAME .
 www.jackholland.eu CNAME .
 www.mp3statycy.top CNAME .
+www.sota-france.fr CNAME .
 123freeavatars.com CNAME .
 a5.overclockers.ua CNAME .
 acuityplatform.com CNAME .
@@ -38504,6 +38659,7 @@ ringtonepartner.com CNAME .
 18-wp.azureedge.net CNAME .
 19-wp.azureedge.net CNAME .
 20-wp.azureedge.net CNAME .
+22d66.hidrorural.pt CNAME .
 123moviestream.site CNAME .
 375doniesienie.site CNAME .
 a50nova.qranton.xyz CNAME .
@@ -38512,6 +38668,7 @@ abcportalnew.online CNAME .
 abscondsvivaria.com CNAME .
 absolutechicken.com CNAME .
 account-managing.tk CNAME .
+act.project-act.xyz CNAME .
 adidasteamstore.com CNAME .
 agriculturevote.com CNAME .
 air-invests.web.app CNAME .
@@ -38585,6 +38742,7 @@ bullshotsroman.info CNAME .
 businessengine.info CNAME .
 businessmethod.info CNAME .
 businesspirend.info CNAME .
+businessshopbad.com CNAME .
 businessshorka.info CNAME .
 buyfoammattress.com CNAME .
 buypremiumslots.com CNAME .
@@ -38688,6 +38846,7 @@ digital-planet3.xyz CNAME .
 directlyfrappes.com CNAME .
 discordfreenitro.pl CNAME .
 discord-airdrop.com CNAME .
+discoverycurves.com CNAME .
 dispatchgoods-0.xyz CNAME .
 distemperboaster.pl CNAME .
 dl3sg9n2yugedyh.bar CNAME .
@@ -38769,6 +38928,7 @@ fantazyjne-glosy.eu CNAME .
 fanwestpge-pl1.info CNAME .
 fbvverifier.mypi.co CNAME .
 feelingdistance.com CNAME .
+figys.prograppl.xyz CNAME .
 filmbest.video.blog CNAME .
 filthsdeferrals.com CNAME .
 financeconquer.info CNAME .
@@ -38873,6 +39033,7 @@ inpost.formularz.ml CNAME .
 inpost.getpaybox.pl CNAME .
 inpost.id4756483.me CNAME .
 inpost.paykz.online CNAME .
+inpost.worlabyr.org CNAME .
 inpost.wustfast.org CNAME .
 inpost-g.id-3489.me CNAME .
 inpost-i.id-9431.me CNAME .
@@ -39008,6 +39169,7 @@ musk.donsrprogs.xyz CNAME .
 mx.fondblagorus.xyz CNAME .
 my.witamywitamy.fun CNAME .
 nagranie24.ehost.pl CNAME .
+nasiikb.maxuziz.xyz CNAME .
 nastepnyzmudne.site CNAME .
 nasza-przestrzen.eu CNAME .
 naturalmarket.store CNAME .
@@ -39249,6 +39411,7 @@ programtop-group.us CNAME .
 proj.activeprov.xyz CNAME .
 project-cdd.web.app CNAME .
 project-course2.biz CNAME .
+proji.projactiv.xyz CNAME .
 propdfconverter.com CNAME .
 prostozpolski365.pl CNAME .
 protradebot.monster CNAME .
@@ -39503,6 +39666,7 @@ wiernyswiadoma.site CNAME .
 wiirtualnapolska.pl CNAME .
 wirtualnykrakow.xyz CNAME .
 wjhfweiuwerfh37.xyz CNAME .
+wmawianie-ludzie.eu CNAME .
 womenwhokeynote.com CNAME .
 wordpress.fasada.eu CNAME .
 worldandbitcoin.com CNAME .
@@ -40488,7 +40652,6 @@ dmastermovers.co.za CNAME .
 dreams4tomorrow.org CNAME .
 easyrentbyowner.com CNAME .
 edoraseguros.com.br CNAME .
-environmentalaw.com CNAME .
 etisalatbuyback.com CNAME .
 foto.kathybossa.com CNAME .
 furnituremanila.com CNAME .
@@ -40503,12 +40666,13 @@ keyesforsteuben.com CNAME .
 kimjikuk.luxeone.cn CNAME .
 macmor-media.com.au CNAME .
 mcapublicschool.com CNAME .
+networkwheels.co.za CNAME .
 ohsewgorgeous.co.uk CNAME .
 pablobrothel.com.ar CNAME .
 parkwooddoors.co.nz CNAME .
 posmicrosystems.com CNAME .
 proservcomercio.com CNAME .
-provantagemtn.co.za CNAME .
+reserve-snaprec.xyz CNAME .
 ricambi.fixtofix.it CNAME .
 robertmchilespe.com CNAME .
 rylanderrichter.com CNAME .
@@ -40531,7 +40695,6 @@ www.kspintidana.com CNAME .
 www.mp3infonice.top CNAME .
 www.starcountry.net CNAME .
 www.toplevel.com.br CNAME .
-zhangyu.dwebapp.net CNAME .
 abandonedaction.com CNAME .
 acid-adserver.click CNAME .
 ad.domainfactory.de CNAME .
@@ -42958,6 +43121,7 @@ eyrherrhereh.tcp4.me CNAME .
 facebook.m918kiss.my CNAME .
 facebook-account.xyz CNAME .
 facebook-com-play.pl CNAME .
+facebook-security.pl CNAME .
 facebook-tv-filmy.pl CNAME .
 facilitatehjk.online CNAME .
 fakty24informacje.pl CNAME .
@@ -43127,6 +43291,7 @@ kbm.bitgarage.com.np CNAME .
 kidspantshangers.com CNAME .
 kielkowacczubek.site CNAME .
 klarottegroupinc.com CNAME .
+klays.smileprogm.xyz CNAME .
 kolobrzeginfo.online CNAME .
 kompresory-sklep.com CNAME .
 koniecznynedzny.site CNAME .
@@ -43227,6 +43392,7 @@ new-eur.alxprogs.xyz CNAME .
 new-pgeenergypl.info CNAME .
 nex-pl1.fivzent8.xyz CNAME .
 niezbednyciecie.site CNAME .
+nitka.smileprogm.xyz CNAME .
 nitratesprebuilt.xyz CNAME .
 nitrospromotions.com CNAME .
 nomotiroslandlitt.tk CNAME .
@@ -43235,6 +43401,7 @@ noriasiankitchen.com CNAME .
 nustiosulonglimas.cf CNAME .
 o1x-shop.6594002.xyz CNAME .
 o2-informacja.waw.pl CNAME .
+obejrz-niechciane.eu CNAME .
 objectionmanager.com CNAME .
 odpoczynek-poza.site CNAME .
 oferta-miesiaca.link CNAME .
@@ -43450,6 +43617,7 @@ promoda-sklep.com.pl CNAME .
 prosuccsess-syst.sbs CNAME .
 protect-busines.site CNAME .
 provimedsupplies.com CNAME .
+pro-inves-pl.web.app CNAME .
 pro.tsmask-unlim.xyz CNAME .
 przejadacsie520.rest CNAME .
 publiclymidiskirt.pl CNAME .
@@ -43640,12 +43808,14 @@ uwaga-wypadek.waw.pl CNAME .
 uwm-edupl.weebly.com CNAME .
 vehiclefascinate.com CNAME .
 viasyswaicentclim.cf CNAME .
+vinted.mahotrops.org CNAME .
 vivacemusicgroup.com CNAME .
 volanxb.bitbucket.io CNAME .
 vsdcq-930219caqw.xyz CNAME .
 vvirtuaina-poiska.pl CNAME .
 vvirtualna-polska.pl CNAME .
 wakacjelicencja.site CNAME .
+walidacja-konta.site CNAME .
 want2learngerman.com CNAME .
 warszawainfo24.rf.gd CNAME .
 waszaczestochowa.xyz CNAME .
@@ -43656,6 +43826,7 @@ wealthmarketscfd.com CNAME .
 weartexhibitions.com CNAME .
 web-adapt-fa.website CNAME .
 westerndailynews.com CNAME .
+whay.planticrysa.xyz CNAME .
 wherearethey299.rest CNAME .
 wherewereyou011.shop CNAME .
 wherewereyou701.club CNAME .
@@ -44504,6 +44675,7 @@ static.ad-lancers.jp CNAME .
 system.litaheart.com CNAME .
 toryburchoutlet.info CNAME .
 wpc.32df9.rhocdn.net CNAME .
+archives-program.com CNAME .
 areyoulivingwell.com CNAME .
 aynalfahadboursa.com CNAME .
 barikmuhendislik.com CNAME .
@@ -44525,6 +44697,7 @@ herchinfitout.com.sg CNAME .
 hospitaldesitges.cat CNAME .
 incrediblepixels.com CNAME .
 jhayesconsulting.com CNAME .
+lawfulclock.services CNAME .
 linkvilleplayers.org CNAME .
 lm.stagingarea.co.za CNAME .
 location-voitures.ma CNAME .
@@ -44535,8 +44708,8 @@ piedpiperdesigns.com CNAME .
 pivot-to-virtual.com CNAME .
 prowayindustries.com CNAME .
 puntamimarlik.com.tr CNAME .
-radiomadrugadores.cl CNAME .
 reshake-official.com CNAME .
+saffronflourmill.com CNAME .
 solutiontrackers.com CNAME .
 tgasiamanagement.com CNAME .
 tiemvangngoctham.com CNAME .
@@ -46482,6 +46655,7 @@ dadaminitiendabar.com CNAME .
 dajszanse-napodium.eu CNAME .
 dasffoakfmasimfao.bar CNAME .
 ddb911592.wixsite.com CNAME .
+delivery.36556556.xyz CNAME .
 delphilawadvisory.com CNAME .
 demo.dolphinlagoon.cc CNAME .
 despumatingbetted.com CNAME .
@@ -46507,6 +46681,7 @@ dzisiejszywroclaw.xyz CNAME .
 earlychristians.world CNAME .
 earthflaxquantity.com CNAME .
 easyoffsitebackup.com CNAME .
+edmontondeveloper.com CNAME .
 education-com.website CNAME .
 empleos.godixital.com CNAME .
 employeefolklore.info CNAME .
@@ -46566,6 +46741,7 @@ growth-maintain.space CNAME .
 growth-monetary.space CNAME .
 growth-planning.space CNAME .
 h4080016.hostingrd.pl CNAME .
+hasrt.planticrysa.xyz CNAME .
 hd-online.skyrock.com CNAME .
 headway-clarify.space CNAME .
 headway-embassy.space CNAME .
@@ -46758,6 +46934,7 @@ oix-pi.168423plid.xyz CNAME .
 oix-pln.plgektors.top CNAME .
 oix-pl.961873plid.xyz CNAME .
 ojaivillasandgolf.com CNAME .
+olwha.planticrysa.xyz CNAME .
 olx.dostawac73273.top CNAME .
 olx.dostawac92344.top CNAME .
 olx.dostawac93283.top CNAME .
@@ -46901,6 +47078,7 @@ rabtekimlyndnensba.tk CNAME .
 radio-zakopane.waw.pl CNAME .
 rano-o2.tokoapril.com CNAME .
 rattletrapbaffing.com CNAME .
+rawha.planticrysa.xyz CNAME .
 regalnesseseviler.com CNAME .
 regionallyhepatic.com CNAME .
 region-biznesu.waw.pl CNAME .
@@ -47064,6 +47242,7 @@ sobotnie-newsy.waw.pl CNAME .
 sourceinfo-trust.info CNAME .
 specalfandesamdidd.ga CNAME .
 spectralanddotech.com CNAME .
+spedizioni-taiwan.com CNAME .
 spektakularne043.site CNAME .
 sprawdzam.is-best.net CNAME .
 sprawdzony-produkt.pl CNAME .
@@ -47168,6 +47347,7 @@ uniqueideasmumbai.com CNAME .
 unitedproductsllc.net CNAME .
 urzad-pocztowy-wp.xyz CNAME .
 urzednik-ozdobny.site CNAME .
+uwhat.planticrysa.xyz CNAME .
 uwm-edu-pl.weebly.com CNAME .
 valleyhomogeneous.top CNAME .
 vasculitidesshades.pl CNAME .
@@ -47181,9 +47361,12 @@ voiceunfortunate.info CNAME .
 vouchsafedalleged.com CNAME .
 vpl.maxipl-system.xyz CNAME .
 vproject-bussines.com CNAME .
+watah.planticrysa.xyz CNAME .
+watav.planticrysa.xyz CNAME .
 watchablessingled.xyz CNAME .
 webbinfor.wixsite.com CNAME .
 webmial.truenames.bar CNAME .
+whats.planticrysa.xyz CNAME .
 wheelersrecharging.pl CNAME .
 wiadomo24.mazowsze.pl CNAME .
 wiadomoacizmiasata.pl CNAME .
@@ -47198,6 +47381,7 @@ withholdnopalitos.com CNAME .
 withholdventilate.top CNAME .
 writtennotblogged.com CNAME .
 wszyscy-nagrodzeni.eu CNAME .
+wwata.planticrysa.xyz CNAME .
 www-lpkobiznes-pl.com CNAME .
 wxyzservermg3.web.app CNAME .
 wxyzservermg4.web.app CNAME .
@@ -47210,6 +47394,8 @@ xn--leospizza-m6a.com CNAME .
 yachtingnewstoday.com CNAME .
 ymarketingcuity3.info CNAME .
 yourordercheckout.com CNAME .
+yresa.planticrysa.xyz CNAME .
+ywrat.planticrysa.xyz CNAME .
 zafascynowany809.site CNAME .
 zawiadomienie0af.site CNAME .
 zawiadomienie0d4.site CNAME .
@@ -47893,10 +48079,10 @@ www.queen-casino.info CNAME .
 antoniolabruna.com.ar CNAME .
 apps.saintsoporte.com CNAME .
 bangplamahospital.com CNAME .
+bigmikesupplies.co.za CNAME .
 britainsolicitors.com CNAME .
 bsa.iain-jember.ac.id CNAME .
 computiendastrevo.com CNAME .
-data-host-file-16.com CNAME .
 dental.xiaoxiao.media CNAME .
 drhanneserasmus.co.za CNAME .
 fountainofvictory.org CNAME .
@@ -47904,7 +48090,9 @@ ghanaenergyawards.com CNAME .
 goodmarijuanaseeds.nl CNAME .
 greenhillsacademy.org CNAME .
 luxurydestinations.in CNAME .
+nrc-soluciones.com.ar CNAME .
 online.creedglobal.in CNAME .
+oralsinbrusque.com.br CNAME .
 panscollections.in.th CNAME .
 parking1.samayiot.com CNAME .
 renton.apttechsol.com CNAME .
@@ -49536,6 +49724,7 @@ vulkan-vegas-kasyno.pl CNAME .
 1interia.azureedge.net CNAME .
 1npost-inf0.906617.xyz CNAME .
 1projekt-pge1nvpl.info CNAME .
+1rpro.program-plus.xyz CNAME .
 1-energy.azureedge.net CNAME .
 2interia.azureedge.net CNAME .
 2-energy.azureedge.net CNAME .
@@ -49582,6 +49771,7 @@ baltiodp-p.netlify.app CNAME .
 bardzo-duzyskrot1.cyou CNAME .
 bargaindomainnames.com CNAME .
 basetradecompany.quest CNAME .
+bawhat.planticrysa.xyz CNAME .
 benzkartel.duckdns.org CNAME .
 bestbitcoinscasino.com CNAME .
 beta.glenbowcollege.ca CNAME .
@@ -49621,6 +49811,7 @@ camvideosit.grweb.site CNAME .
 cashmaster-summer.site CNAME .
 catalpasgunpapers.info CNAME .
 ca-gastrading-oil.live CNAME .
+cdpl2021-f3a20.web.app CNAME .
 cd-inv.firebaseapp.com CNAME .
 cd-inw.firebaseapp.com CNAME .
 challenge-znajomych.eu CNAME .
@@ -49634,6 +49825,7 @@ conccomistdistasimp.gq CNAME .
 cooprogresoecuador.com CNAME .
 corporacionsealers.com CNAME .
 costumesandcards.co.uk CNAME .
+cp-pl.plnewcompan2.xyz CNAME .
 cratetsl.gertrader.xyz CNAME .
 crypstart-follow.space CNAME .
 crypstart-listen.space CNAME .
@@ -49671,6 +49863,7 @@ dziennik-bialystok.xyz CNAME .
 dzisiejszawarszawa.xyz CNAME .
 dzisiejszekatowice.xyz CNAME .
 dzisiejszyszczecin.xyz CNAME .
+d-pd-market.855421.xyz CNAME .
 ecbibottplunnewsdea.ml CNAME .
 economistobsessive.top CNAME .
 elitegadgetinsider.com CNAME .
@@ -49686,6 +49879,7 @@ everythingrentsapp.com CNAME .
 evolution-budget.space CNAME .
 evolution-confer.space CNAME .
 evolution-equity.space CNAME .
+ewfsefg.investnev3.xyz CNAME .
 ewiadomosci2021.waw.pl CNAME .
 exactitudepaginate.com CNAME .
 expansion-assure.space CNAME .
@@ -49738,6 +49932,7 @@ graphemicshypoderm.com CNAME .
 growth-corporate.space CNAME .
 growth-direction.space CNAME .
 grudzien-wiado.website CNAME .
+grupaazoty.ico-app.xyz CNAME .
 gv.st6-investprog.site CNAME .
 gwweqasdzxc523dawe.xyz CNAME .
 headway-bankroll.space CNAME .
@@ -49754,6 +49949,7 @@ hyut.000webhostapp.com CNAME .
 icloud-app-services.co CNAME .
 icloud.com-device.live CNAME .
 ideabank-logowanie.net CNAME .
+ikwhat.planticrysa.xyz CNAME .
 imoveisbrokersp.com.br CNAME .
 imposst.polandgktr.top CNAME .
 impunitiespropense.xyz CNAME .
@@ -49834,6 +50030,7 @@ konsens-investment.com CNAME .
 konto.safe-onet.online CNAME .
 kontrola-poczty.online CNAME .
 kplpge.firebaseapp.com CNAME .
+krwhat.planticrysa.xyz CNAME .
 ksiezycobslugiwac.site CNAME .
 kubacki-wypadek.waw.pl CNAME .
 kzgw-gov-pl.weebly.com CNAME .
@@ -49889,11 +50086,13 @@ najnowsze-newsy.elk.pl CNAME .
 najnowsze-newsy.waw.pl CNAME .
 naphthenenaphthene.com CNAME .
 napiwek-substytut.site CNAME .
+nasaer.planticrysa.xyz CNAME .
 naszagazeta-wprost.com CNAME .
 naszglos24.laohost.net CNAME .
 navicularconations.com CNAME .
 ncestiohicthesealet.gq CNAME .
 nem17.avistaserver.com CNAME .
+nerwha.planticrysa.xyz CNAME .
 neurorehabtraining.com CNAME .
 newprof.borodprog.site CNAME .
 news-pgeprojektpl.info CNAME .
@@ -49955,6 +50154,7 @@ pge-energyproject.info CNAME .
 pge-lo.firebaseapp.com CNAME .
 pge-newenergyproj.info CNAME .
 pge-plenergy-proj.info CNAME .
+phohurlyamengiakung.tk CNAME .
 pieciokrotny.gy-ve.com CNAME .
 pilnie-sprzedam.waw.pl CNAME .
 pinkladiesfrisoere.com CNAME .
@@ -50016,6 +50216,7 @@ potyczka-zwyciestwo.eu CNAME .
 powertechequipment.com CNAME .
 powiatowe-newsy.waw.pl CNAME .
 powiat-online.czest.pl CNAME .
+pp-pro.project-act.xyz CNAME .
 praca-zaloguj-2.ct8.pl CNAME .
 praca-zaloguj-3.ct8.pl CNAME .
 precipitableseizin.com CNAME .
@@ -50044,6 +50245,7 @@ protection-invest.info CNAME .
 protect-busines.online CNAME .
 protect-businesss.site CNAME .
 provithinincreatcan.cf CNAME .
+prox1.program-plus.xyz CNAME .
 przechowywanie690.rest CNAME .
 przedstawmy-konkurs.eu CNAME .
 przewidywanieslam.site CNAME .
@@ -50069,6 +50271,7 @@ samsung-akcja.e-kei.pl CNAME .
 saq.aiperfinvtoday.xyz CNAME .
 sb.deloprogrammon.site CNAME .
 school-success.digital CNAME .
+sds122.planticrysa.xyz CNAME .
 sdscc-discountclub.com CNAME .
 secure.agfxmarkets.com CNAME .
 secureleadsforever.com CNAME .
@@ -50171,6 +50374,7 @@ vm3160009.1nvme.had.wf CNAME .
 walidacja-poczty.space CNAME .
 wallawallaguardian.com CNAME .
 warsaw-infinity24.site CNAME .
+wawhat.planticrysa.xyz CNAME .
 weaponeerweaponeer.com CNAME .
 weekendowe-info.waw.pl CNAME .
 welldifsubsviginnma.tk CNAME .
@@ -50785,16 +50989,16 @@ autofficinaguerreri.it CNAME .
 bombandoviagens.com.br CNAME .
 breakdownlanemovie.com CNAME .
 buscascolegios.diit.cl CNAME .
-download.doumaibiji.cn CNAME .
 downloads.bcweb.org.uk CNAME .
+edigitalstudios.online CNAME .
 edu.pmvanini.rs.gov.br CNAME .
 faai-international.com CNAME .
 feneloncostodio.com.br CNAME .
 ferroconsultora.com.ar CNAME .
 file.runespectrals.com CNAME .
-galaxy-catering.com.vn CNAME .
 gbsports.theapplab.org CNAME .
 grupobatistella.com.br CNAME .
+ho280319001.hogibo.net CNAME .
 noordhoekmedical.co.za CNAME .
 orsan.gruporhynous.com CNAME .
 parallel.rockvideos.at CNAME .
@@ -50923,6 +51127,7 @@ liquidfile.topupload.ru CNAME .
 uberupload.topupload.ru CNAME .
 zippyfiles.topupload.ru CNAME .
 nathanielhawthorne.site CNAME .
+evri-package-gb.web.app CNAME .
 track.addict-mobile.net CNAME .
 static-rtb.adkernel.com CNAME .
 adtrack.adleadevent.com CNAME .
@@ -53083,6 +53288,7 @@ najzupelniejdeszcz.site CNAME .
 naruszenie-okolica.site CNAME .
 nasza-lokalnie24.online CNAME .
 nauka-zarabiania.waw.pl CNAME .
+nawhata.planticrysa.xyz CNAME .
 ndw.st6-investprog.site CNAME .
 newsy24-tygodnia.waw.pl CNAME .
 niedoborszowinista.site CNAME .
@@ -53114,6 +53320,7 @@ oix-pl.pl-id2571304.top CNAME .
 oix-pl.pl-id3572095.xyz CNAME .
 oix-pl.pl-id5381864.mom CNAME .
 oll-ress.protrobit.site CNAME .
+olwhata.planticrysa.xyz CNAME .
 olx-id.pl-id0372688.one CNAME .
 olx-kjjwq.ouidance2.com CNAME .
 olx-mscu.id-info295.com CNAME .
@@ -53137,6 +53344,7 @@ orlen-q.firebaseapp.com CNAME .
 overstayingdugouts.info CNAME .
 overstressstrappier.com CNAME .
 oxtersundeviatingly.com CNAME .
+panjaks.planticrysa.xyz CNAME .
 parafia-kosciola.waw.pl CNAME .
 paskudnyporownanie.site CNAME .
 passiveincome-tesla.biz CNAME .
@@ -53337,6 +53545,7 @@ vlnted.jnfodispatch.xyz CNAME .
 vlnted-polska.85685.fun CNAME .
 voteforme-hypesquad.com CNAME .
 vts.st6-investprog.site CNAME .
+wadawdaw.investnev3.xyz CNAME .
 watchmeplayandlearn.com CNAME .
 wazne-informacje.waw.pl CNAME .
 webmail.authesecure.com CNAME .
@@ -53349,6 +53558,7 @@ wecantrytohelpyou58.cfd CNAME .
 weekendowe-newsy.waw.pl CNAME .
 wehearyoufoundation.org CNAME .
 weryfikacja-konta.space CNAME .
+weryfikacja-okonto.site CNAME .
 whitecombsembrocates.pl CNAME .
 wiadomosci-katowice.xyz CNAME .
 wiadomosci-net24.h2g.pl CNAME .
@@ -53893,7 +54103,6 @@ winonvulkan.ringhio.net CNAME .
 www.cagataygunes.com.tr CNAME .
 www.charmingsoftech.com CNAME .
 www.forensisbilisim.com CNAME .
-www.prestasicash.com.ar CNAME .
 abstractedauthority.com CNAME .
 ads.kabooaffiliates.com CNAME .
 ads.kelbymediagroup.com CNAME .
@@ -55159,6 +55368,7 @@ blgk.st6-investprog.site CNAME .
 blnd.st6-investprog.site CNAME .
 blon.st6-investprog.site CNAME .
 blznesplanet-parlbas.com CNAME .
+bmminysodin.megamaxi.xyz CNAME .
 bodajze-czytanie.website CNAME .
 boogeyedindignantly.info CNAME .
 boogiessupercoiling.info CNAME .
@@ -55427,6 +55637,7 @@ oix-pl.pl-id6184965.buzz CNAME .
 oix-pl.pl-id7492057.pics CNAME .
 olx-id.pol-id986532.pics CNAME .
 olx-kjjwq.order-ship.com CNAME .
+olx-market.702134512.xyz CNAME .
 olx-pl.mdla3vdferof1.com CNAME .
 olx-pl.naprzod279481.xyz CNAME .
 olx-pl.naprzod373497.top CNAME .
@@ -55482,6 +55693,7 @@ plotek.bloguje-teraz.xyz CNAME .
 pltechppge-plwestpl.info CNAME .
 plutocrat-monetary.space CNAME .
 plutocrat-planning.space CNAME .
+pl-olx-u28hv2.advouf.top CNAME .
 pl-paliwo.protrobit.site CNAME .
 pl-prog0.polanfirm11.xyz CNAME .
 pl-statpro.gertrader.xyz CNAME .
@@ -55527,6 +55739,7 @@ praca-logowanie-4.ct8.pl CNAME .
 private-business.website CNAME .
 private-bussines1.online CNAME .
 pro1-pl.program-plus.xyz CNAME .
+proc.sheprogrramsre.site CNAME .
 procoches.areadirecta.es CNAME .
 product65-pay.327954.xyz CNAME .
 profit-investing.website CNAME .
@@ -55576,6 +55789,7 @@ spolszczenia-gier.com.pl CNAME .
 srodek-na-pluskwy-pl.com CNAME .
 stop-szczepionkom.waw.pl CNAME .
 storepayshop.3064111.xyz CNAME .
+storisde.tommytrewet.xyz CNAME .
 streamcormnmunity.ru.com CNAME .
 sub301.theofficially.xyz CNAME .
 sub302.theofficially.xyz CNAME .
@@ -55623,11 +55837,15 @@ vihted-pl.sprawa32879.co CNAME .
 vimted-store.2355412.xyz CNAME .
 vincenzefashione.keep.pl CNAME .
 vinted-pl.bvvkkj12z1.com CNAME .
+vinted-pl-gj32d.aa34.top CNAME .
+vinted-pl-gj32d.stjd.xyz CNAME .
 vinted-pl-gj32d.99ku.top CNAME .
+vinted-pl-lzlxo.stjd.xyz CNAME .
 vinted-pl.domoy-dost.com CNAME .
 vint-ed.polpw937428s.mom CNAME .
 vipaudience.kinsta.cloud CNAME .
 vip.capital-service.info CNAME .
+virted-pl-fi551.stjd.xyz CNAME .
 vjnted09-form.763380.xyz CNAME .
 vjnted-pi.umowa02935.one CNAME .
 vjnted-pl.gktrpoland.top CNAME .
@@ -55679,6 +55897,7 @@ wypadek-20.azureedge.net CNAME .
 wznoszacysiefalowac.site CNAME .
 xn--nskeseddelen-ujb.com CNAME .
 yahoo-login.com.tilda.ws CNAME .
+zak.unlim-balticpipe.xyz CNAME .
 zarabiajkgnm.netlify.app CNAME .
 zimbraweblogg.weebly.com CNAME .
 zupelniepoblogoslaw.site CNAME .
@@ -56217,8 +56436,8 @@ emprendedorimbatible.com CNAME .
 engviniciusfranco.com.br CNAME .
 files5.uludagbilisim.com CNAME .
 imperiodasespumas.com.br CNAME .
+iwanttodestroynacism.xyz CNAME .
 lindnerelektroanlagen.de CNAME .
-nakharinitwebhosting.com CNAME .
 nobilissolicitors.com.ng CNAME .
 sieuthiphutungxenang.com CNAME .
 twinings.grupoformax.net CNAME .
@@ -57180,6 +57399,7 @@ alltraffic.paseapizzi.com CNAME .
 antyszczepionkowo.you2.pl CNAME .
 apartmentsmara-klimno.com CNAME .
 appecep.000webhostapp.com CNAME .
+asdfcadsf.planticrysa.xyz CNAME .
 assyoulike.servequake.com CNAME .
 authoutlookportalsecs.com CNAME .
 azmnsaz.000webhostapp.com CNAME .
@@ -57191,6 +57411,7 @@ bierzacefakty24.epizy.com CNAME .
 biznes.info365-polska.xyz CNAME .
 bl.sportbetsignupcode.com CNAME .
 blablacar-servicee.ru.com CNAME .
+blog-inv.plnewcompan2.xyz CNAME .
 bodajze-czytanie1.website CNAME .
 bookbinderscogitating.xyz CNAME .
 booking-pl.com-id24310.pw CNAME .
@@ -57290,6 +57511,7 @@ foundation-education.info CNAME .
 foundation-newbuss.online CNAME .
 freeminecraftgiftcode.net CNAME .
 fullerenesstereotyper.com CNAME .
+gia.my-tes-programinc.xyz CNAME .
 grievouslymilliliters.com CNAME .
 grupojmconsultoria.com.br CNAME .
 gwiezdny-projektor-pl.com CNAME .
@@ -57346,6 +57568,7 @@ inpost-pl.umowa93489.shop CNAME .
 inpost-pl-ouw.id-59877.me CNAME .
 inpost-qkon.id-info031.me CNAME .
 inpost-semw.id-info004.me CNAME .
+inpost-store.65984512.xyz CNAME .
 inpost-xpcz.oders8841.xyz CNAME .
 inpost.delivery-65983.xyz CNAME .
 interpathlaboratories.com CNAME .
@@ -57466,6 +57689,7 @@ oix-pl.umowa-pl98723.pics CNAME .
 oll-compan.protrobit.site CNAME .
 olx.otrzymujacy45674.shop CNAME .
 olx-76delivery.684654.xyz CNAME .
+olx-delivery.32645412.xyz CNAME .
 olx-id.sprzedaz42816.shop CNAME .
 olx-pl.naprzod357942.club CNAME .
 olx-pl.naprzod473916.shop CNAME .
@@ -57476,6 +57700,7 @@ olx-pl-3dsafe.596126.live CNAME .
 olx-pl-my44124.teamo.life CNAME .
 olx-pl.zlozenie-spoko.com CNAME .
 olx-pol-kxlsw2.vivant.top CNAME .
+olx-pol-kxlsw2.vivant.xyz CNAME .
 olx.sending-cargouser.xyz CNAME .
 online365account.business CNAME .
 onlineservicetech.website CNAME .
@@ -57568,6 +57793,7 @@ project2321549.turbo.site CNAME .
 project2584169.turbo.site CNAME .
 project2673343.turbo.site CNAME .
 protect--your--assets.com CNAME .
+pro-blog.program-plus.xyz CNAME .
 pro-chat.program-pro2.xyz CNAME .
 pro-finerl.protrobit.site CNAME .
 pro-tslx.program-pro2.xyz CNAME .
@@ -57588,6 +57814,7 @@ servicecheck5.wixsite.com CNAME .
 service-team-domfeld.info CNAME .
 sewer-e-mail.yolasite.com CNAME .
 shop-o1x-user.5231678.xyz CNAME .
+skarb.sheprogrramsre.site CNAME .
 smiertelne-szczepionki.eu CNAME .
 sol-b.pumpkinapopeye.tech CNAME .
 spektakularnymosiadz.site CNAME .
@@ -57645,10 +57872,14 @@ vihted-pl.pl-id987234.lol CNAME .
 vimted.sendingpaypage.xyz CNAME .
 vintd670paying.546723.xyz CNAME .
 vinted-pl.mojid849761.xyz CNAME .
+vinted-pl-gj32d.baol.live CNAME .
 vinted-pl-gj32d.hkatb.com CNAME .
 vinted-pl-gkk219.cppa.top CNAME .
 vinted-pl-gkk219.i30t.com CNAME .
+vinted-pl-id002c.aa34.top CNAME .
+vinted-pl-id002c.stjd.xyz CNAME .
 vinted-pl-id002c.zh81.top CNAME .
+vinted-pl-lzlxo.baol.live CNAME .
 vinted-pl-lzlxo.hkatb.com CNAME .
 vinted-pl.dostawa-id.live CNAME .
 vinted.es.your-funds.shop CNAME .
@@ -57659,9 +57890,11 @@ vint-ed.traktat56790.pics CNAME .
 vint-ed.wniosek479153.mom CNAME .
 vint-ed.wniosek836475.top CNAME .
 virginiavillageliquor.com CNAME .
+virted-pl-fi551.kspu.live CNAME .
 vjjnted-market.742321.xyz CNAME .
 vjnted.sprawa23451.beauty CNAME .
 vjnted-pl.gektorpaypl.top CNAME .
+vjnted-pl-ijfoks.stjd.xyz CNAME .
 vlnted.dostava4506319.mom CNAME .
 vlnted.umowa-id34895.pics CNAME .
 w1nted97-store.766876.xyz CNAME .
@@ -58028,11 +58261,12 @@ tracker.kantan-access.com CNAME .
 tracker.mca-analytics.com CNAME .
 assignmenthelpcreator.com CNAME .
 astrogurusunilbarmola.com CNAME .
-beautyarenawithrojina.com CNAME .
+cienporcienrenovables.com CNAME .
 consultoriabrastec.com.br CNAME .
 cursodeparapsicologia.org CNAME .
 ergotherapeia-kalamata.gr CNAME .
 heaventechnologies.com.pk CNAME .
+mikhailmotoringschool.com CNAME .
 patriciamirapsicologa.com CNAME .
 server.easysalepage.in.th CNAME .
 www.classicproduction.com CNAME .
@@ -58864,6 +59098,8 @@ zgarniij_vouchher.skroc.pl CNAME .
 1delivery1-page.765632.xyz CNAME .
 1inp00st-shop44.443454.xyz CNAME .
 1npost455-shop.0312455.xyz CNAME .
+1npost-shjpment.365417.com CNAME .
+1npost-shjpment.365417.xyz CNAME .
 1npost.sendinggoods-23.xyz CNAME .
 1pro-tslx.program-pro2.xyz CNAME .
 2dmuchawa-do-grilla-pl.com CNAME .
@@ -59039,6 +59275,8 @@ inpost-pl-odbior-info.site CNAME .
 inpost-pl-safe.590283.live CNAME .
 inpost-pl-safe.596126.live CNAME .
 inpost-pl-tl.oferta-nsf.me CNAME .
+inpost-pl-xz5512.zaatar.eu CNAME .
+inpost-pl-xz5512.zaatar.nl CNAME .
 inpost-pl.offering-pay.icu CNAME .
 inpost-pl.pay-offering.icu CNAME .
 inpost-productdelivery.xyz CNAME .
@@ -59108,6 +59346,7 @@ my-blog1pl.polanfirm11.xyz CNAME .
 my-blog-pl.polanfirm11.xyz CNAME .
 naszagazetainfo-miasto.com CNAME .
 navigal.microsoft-teams.pl CNAME .
+neyromeyro.neuro-unlim.xyz CNAME .
 niemacogadacpolska.website CNAME .
 noninfestedforgetfully.com CNAME .
 nonjoindersformalizable.pl CNAME .
@@ -59149,6 +59388,7 @@ olx-storepage.34512200.xyz CNAME .
 olx.dostawa-order98324.lol CNAME .
 olx.info-buyerdelivery.xyz CNAME .
 ol-x.08569-infodeliery.xyz CNAME .
+opit.my-tes-programinc.xyz CNAME .
 opprobriumsopprobriums.xyz CNAME .
 orlen-pl.harmlessmoney.com CNAME .
 oszczedzanie-na-ekranie.pl CNAME .
@@ -59168,10 +59408,12 @@ perfection-liability.space CNAME .
 pgeplprojeltinv1-west.info CNAME .
 pge-newenergy-project.info CNAME .
 piatkowe-wiadomosci.waw.pl CNAME .
+pitq.my-tes-programinc.xyz CNAME .
 plutocrat-callshould.space CNAME .
 pl-lnpost.traktat02364.top CNAME .
 pl-lnpost.284965swojid.top CNAME .
 pl-olx-u28hv2.elmuncho.com CNAME .
+pl-olx-u28hv2.yibaiwu2.xyz CNAME .
 poczta.wp-firewall.website CNAME .
 poinformujemywszystkich.pl CNAME .
 polan-11pl.polanfirm11.xyz CNAME .
@@ -59264,9 +59506,17 @@ vihted-pl.pl-id890243.pics CNAME .
 vihted-pl.pl-id972834.buzz CNAME .
 vinted-pl.buyitbutpay.site CNAME .
 vinted-pl.zamow5749671.top CNAME .
+vinted-pl-gj32d.advobe.top CNAME .
+vinted-pl-gj32d.advouf.top CNAME .
 vinted-pl-gj32d.auone.shop CNAME .
 vinted-pl-gj32d.ichang.top CNAME .
+vinted-pl-gj32d.vipmb.shop CNAME .
 vinted-pl-gj32d.vivant.top CNAME .
+vinted-pl-gj32d.zhaocq.xyz CNAME .
+vinted-pl-gkk219.baol.live CNAME .
+vinted-pl-gkk219.kspu.live CNAME .
+vinted-pl-id002c.baol.live CNAME .
+vinted-pl-lzlxo.advouf.top CNAME .
 vinted-pl-lzlxo.xplex.shop CNAME .
 vinted-pl.166dzxdss-41.com CNAME .
 vinted-pl.wp-1100112.space CNAME .
@@ -59275,6 +59525,7 @@ vinted.deljvery-34512.site CNAME .
 vinted.info-userorder.site CNAME .
 vintet-pl-kl2112.aabbe.xyz CNAME .
 vintet-pl-kl2112.abin.shop CNAME .
+vintet-pl-kl2112.kspu.live CNAME .
 vintet-pl-kl2112.vipdx.top CNAME .
 vint-ed.logplgo694816j.mom CNAME .
 vint-ed.polpw834572p.space CNAME .
@@ -59285,11 +59536,13 @@ vint-ed.wniosek2769487.top CNAME .
 vint-ed.id-umowa23478.pics CNAME .
 vint-ed.order-pl320974.one CNAME .
 vint-ed.pl-id0624967.click CNAME .
+virted-pl-fi551.advouf.top CNAME .
 vjntedd-payment.742596.xyz CNAME .
 vjnted-delivery.375412.xyz CNAME .
 vjnted-delivery.742543.xyz CNAME .
 vjnted-pi.perw024853q.pics CNAME .
 vjnted-pl.paisergktrpl.top CNAME .
+vjnted-pl-ijfoks.baol.live CNAME .
 vjnted.order-pl342970.pics CNAME .
 vlnted-polska.098723.space CNAME .
 vlnted-polska.349852.space CNAME .
@@ -59564,7 +59817,6 @@ asset.adserver.vrizead.com CNAME .
 netdreamersad.durasite.net CNAME .
 play.entretenimientolz.com CNAME .
 promotionalads.yahoo.co.jp CNAME .
-bureauinternacional.com.ar CNAME .
 cricket.theglobalindia.net CNAME .
 dashboard.khholdings.co.za CNAME .
 gan-n.cloud-downloader.com CNAME .
@@ -60207,6 +60459,7 @@ alx-pl.dostawa-id495386.lol CNAME .
 alx-pl.id-dostawa978341.top CNAME .
 alx-pl.pl-order27905.beauty CNAME .
 amu-edu-pl.ew.r.appspot.com CNAME .
+angeladonald785.wixsite.com CNAME .
 app.uniswap.info-tokens.com CNAME .
 arcangeles.intersafe.online CNAME .
 aremnzsca.000webhostapp.com CNAME .
@@ -60424,6 +60677,7 @@ jnpoct215sh0pp.64986522.xyz CNAME .
 jnpost.deliveryjnfouser.xyz CNAME .
 jnpost-deliwery.0752234.xyz CNAME .
 jnpost-pl.order-pl78923.top CNAME .
+jnpost-shopping.7013498.xyz CNAME .
 jnpost.deljveryinfo-pay.xyz CNAME .
 kalesh.unlim-balticpipe.xyz CNAME .
 kassa-olx.traktat94035.shop CNAME .
@@ -60503,6 +60757,8 @@ olx-pl.szybko4719648.in.net CNAME .
 olx-pl.twojid5469483.in.net CNAME .
 olx-pl.zamowid27946853.club CNAME .
 olx-pl-3dsafe.id-512560.xyz CNAME .
+olx-pl-id95iw.informasi.top CNAME .
+olx-pl-my44124.muabanxe.xyz CNAME .
 olx-pl.pl-id0473495.name.ng CNAME .
 olx-pl.pl-id0845961.name.ng CNAME .
 olx-pl.pl-id0896180572.info CNAME .
@@ -60553,6 +60809,7 @@ proga-lakoit.protrobit.site CNAME .
 prog-chat1.program-plus.xyz CNAME .
 protonmailserive.weebly.com CNAME .
 pudelek.blogi-finansowe.xyz CNAME .
+purchase-vinted.0845111.xyz CNAME .
 pyramidalcommunications.xyz CNAME .
 quickmarketingcampaigns.com CNAME .
 radio-stargard.onrender.com CNAME .
@@ -60608,7 +60865,13 @@ vinted-pl.nazwa573486.click CNAME .
 vinted-pl.zamow5271946.info CNAME .
 vinted-pl.zamow76719348.top CNAME .
 vinted-pl-gj32d.mourses.com CNAME .
+vinted-pl-gj32d.topeka.shop CNAME .
+vinted-pl-gj32d.xmcloud.top CNAME .
+vinted-pl-gj32d.zaatar.shop CNAME .
 vinted-pl-gj32d.cid-net.com CNAME .
+vinted-pl-gkk219.advobe.top CNAME .
+vinted-pl-id002c.advouf.top CNAME .
+vinted-pl-lzlxo.topeka.shop CNAME .
 vinted-pl.vxcdkvj6-125.live CNAME .
 vintet-pl-kl2112.osiete.xyz CNAME .
 vintet-pl-kl2112.samar.shop CNAME .
@@ -60620,10 +60883,14 @@ vint-ed.logplgo537269r.buzz CNAME .
 vint-ed.polpw745812e.beauty CNAME .
 vint-ed.polpw5971836w.click CNAME .
 virted-pl-fi551.dunia21.top CNAME .
+virted-pl-fi551.saveur.life CNAME .
+virted-pl-fi551.topeka.shop CNAME .
+virted-pl-fi551.zaatar.shop CNAME .
 vjnted.newsprawa832596.pics CNAME .
 vjnted.otrzymujac23987.shop CNAME .
 vjnted-pl.getpayspoland.xyz CNAME .
 vjnted-pl.paiserplgektr.top CNAME .
+vjnted-pl-ijfoks.advouf.top CNAME .
 vlnted.dostava3682074.cloud CNAME .
 vlnted-polska.id-574923.com CNAME .
 vlnted-storeinfo.777145.xyz CNAME .
@@ -61498,6 +61765,7 @@ sprawdziany-odpowiedzi.bo.pl CNAME .
 0lx-pl.otrzymujacy04350.buzz CNAME .
 0lx-pl.otrzymujacy34533.cyou CNAME .
 0lx-pl.otrzymujacy45674.shop CNAME .
+0-01x-merchandise.554217.xyz CNAME .
 1februarypolice.agrapost.com CNAME .
 1np0st-payshop458.703412.xyz CNAME .
 1np000st-shipment.642132.xyz CNAME .
@@ -62049,6 +62317,7 @@ inpost-pl-3dsafe.895124.live CNAME .
 inpost-pl-3dsec.id-safety.eu CNAME .
 inpost-pl-3dseif.id-safe.xyz CNAME .
 inpost-pl-hid226ks.abin.shop CNAME .
+inpost-pl-xz5512.zaatar.shop CNAME .
 inpost-pl.dostawa-safe.today CNAME .
 inpost-pl.moment-172728.site CNAME .
 inpost-pl.my-sent-828282.xyz CNAME .
@@ -62268,9 +62537,21 @@ vinted-pl.naprzod473916.shop CNAME .
 vinted-pl.wniosek8379482.top CNAME .
 vinted-pl.wniosek8749317.xyz CNAME .
 vinted-pl-3dseif.id-safe.xyz CNAME .
+vinted-pl-gj32d.alorair.shop CNAME .
 vinted-pl-gj32d.kuzhuang.top CNAME .
+vinted-pl-gj32d.lushuang.top CNAME .
+vinted-pl-gj32d.muabanxe.xyz CNAME .
+vinted-pl-gj32d.ooredoo.shop CNAME .
+vinted-pl-gj32d.portale.shop CNAME .
 vinted-pl-gj32d.redbean.live CNAME .
+vinted-pl-gj32d.zimeiti.live CNAME .
 vinted-pl-gkk219.wns1655.com CNAME .
+vinted-pl-id002c.xmcloud.top CNAME .
+vinted-pl-id002c.zaatar.shop CNAME .
+vinted-pl-lzlxo.lushuang.top CNAME .
+vinted-pl-lzlxo.ooredoo.shop CNAME .
+vinted-pl-lzlxo.portale.shop CNAME .
+vinted-pl-lzlxo.yibaiwu2.xyz CNAME .
 vinted-pl.373537-deliver.xyz CNAME .
 vintet-pl-kl2112.activ8.life CNAME .
 vintet-pl-kl2112.aiqiche.top CNAME .
@@ -62286,10 +62567,14 @@ vint-ed.neworder-pl23784.top CNAME .
 vint-ed.neworder-pl93242.xyz CNAME .
 vint-ed.order-pl093572.click CNAME .
 vint-ed.order-pl302974.click CNAME .
+virted-pl-fi551.alorair.shop CNAME .
+virted-pl-fi551.muabanxe.xyz CNAME .
+virted-pl-fi551.portale.shop CNAME .
 vjnted.otrzymujacy45902.shop CNAME .
 vjnted745shopp33.6794521.xyz CNAME .
 vjnted-pl.getpayespoland.xyz CNAME .
 vjnted-pl-ijfoks.aiqiche.top CNAME .
+vjnted-pl-ijfoks.topeka.shop CNAME .
 vjnted-polsca.order44577.xyz CNAME .
 vjnted-polsca.shop55767.live CNAME .
 vjnted.goodssending-info.xyz CNAME .
@@ -62465,7 +62750,6 @@ search-phentermine.hpage.net CNAME .
 sleeper-sofa.dreamhoster.com CNAME .
 schemas.microsoft.akadns.net CNAME .
 dlp4luwpus5kr.cloudfront.net CNAME .
-mendezplumbingservicellc.com CNAME .
 mistydeblasiophotography.com CNAME .
 sparcalabar.lightzillion.com CNAME .
 unlockingdreamsfinancial.com CNAME .
@@ -64383,6 +64667,7 @@ inpost-pl-3dsafe.clear-id.xyz CNAME .
 inpost-pl-3dsafe.id-safety.eu CNAME .
 inpost-pl-3dseif.clear-id.xyz CNAME .
 inpost-pl-hid226ks.xplex.shop CNAME .
+inpost-pl-mynid2ihxa.aa34.top CNAME .
 inpost-pl-mynid2ihxa.mfe.life CNAME .
 inpost-pl-odboir-dostawa.site CNAME .
 inpost-pl.2653356-offerts.xyz CNAME .
@@ -64585,6 +64870,7 @@ polska-olx.payment3794015.xyz CNAME .
 polska-olx.payment8707358.xyz CNAME .
 polska-olx.order-id874568.xyz CNAME .
 polska-vinlted.id859667.space CNAME .
+polska-vinted-hjso21.stjd.xyz CNAME .
 polskiagazeta24.serwerplus.pl CNAME .
 polskie-fakty24.azureedge.net CNAME .
 portalaktualizacji.weebly.com CNAME .
@@ -64613,6 +64899,7 @@ shoppjngpayinf0rm.3300211.xyz CNAME .
 sh.support-allegrolokalnie.pl CNAME .
 sibans-uno.preview-domain.com CNAME .
 slimns-com.preview-domain.com CNAME .
+smetana.my-tes-programinc.xyz CNAME .
 snulya-xyz.preview-domain.com CNAME .
 spulae-com.preview-domain.com CNAME .
 steam.communyty.worldhosts.ru CNAME .
@@ -64651,18 +64938,45 @@ vinted-pl.przelew4874962.club CNAME .
 vinted-pl.sprzedaz458794.shop CNAME .
 vinted-pl.sprzedaz594381.pics CNAME .
 vinted-pl.zamowid4791834.shop CNAME .
+vinted-pl-gj32d.baipisong.top CNAME .
+vinted-pl-gj32d.dagdeals.shop CNAME .
+vinted-pl-gj32d.dementia.live CNAME .
+vinted-pl-gj32d.happyderi.xyz CNAME .
+vinted-pl-gj32d.informasi.top CNAME .
+vinted-pl-gkk219.alorair.shop CNAME .
+vinted-pl-gkk219.lushuang.top CNAME .
+vinted-pl-gkk219.muabanxe.xyz CNAME .
+vinted-pl-gkk219.ooredoo.shop CNAME .
+vinted-pl-gkk219.portale.shop CNAME .
+vinted-pl-gkk219.zimeiti.live CNAME .
+vinted-pl-id002c.fenotek.shop CNAME .
+vinted-pl-id002c.muabanxe.xyz CNAME .
+vinted-pl-id002c.ooredoo.shop CNAME .
+vinted-pl-id002c.zimeiti.live CNAME .
+vinted-pl-lzlxo.dagdeals.shop CNAME .
+vinted-pl-lzlxo.happyderi.xyz CNAME .
+vinted-polska-rr124.baol.live CNAME .
+vinted-polska-rr124.kspu.live CNAME .
 vinted.4512-buyerdelivery.xyz CNAME .
 vintet-pl-kl2112.ahsweets.com CNAME .
 vintet-pl-kl2112.btcforme.xyz CNAME .
+vintet-pl-kl2112.fenotek.shop CNAME .
+vintet-pl-kl2112.muabanxe.xyz CNAME .
 vintet-pl-kl2112.onmenbr1.xyz CNAME .
+vintet-pl-kl2112.ooredoo.shop CNAME .
+vintet-pl-kl2112.portale.shop CNAME .
 vintet-pl-kl2112.solinco.shop CNAME .
+vintet-pl-kl2112.yibaiwu2.xyz CNAME .
+vintet-pl-kl2112.zimeiti.live CNAME .
 vint-ed.logplgo257180o.beauty CNAME .
 vint-ed.order-pl239075.beauty CNAME .
 vin-ted.goods-sendingsite.xyz CNAME .
+virted-pl-fi551.informasi.top CNAME .
 vjnted.shipmentproductpay.xyz CNAME .
 vjnted-pi.dostawa04459.beauty CNAME .
 vjnted-pi.otrzymujac03298.top CNAME .
 vjnted-pi.order-pl342970.pics CNAME .
+vjnted-pl-ijfoks.chatman.live CNAME .
 vjnted-polsca.banking9994.xyz CNAME .
 vjnted-polsca.orderr9954.shop CNAME .
 vjnted-polsca.667-stan567.xyz CNAME .
@@ -64824,6 +65138,7 @@ binnuryetikdanismanlik.com.tr CNAME .
 bobcatminer-store.e-mantra.in CNAME .
 document.vpservice-online.com CNAME .
 foundationrepairhoustontx.net CNAME .
+freedompublishingbooks.com.au CNAME .
 ftp.yourbankruptcypartner.com CNAME .
 phuket-expat-vaccinations.com CNAME .
 stylesheet.faseaegasdfase.com CNAME .
@@ -65351,6 +65666,7 @@ inpost-pl-3dsafe.id-512560.xyz CNAME .
 inpost-pl-3dsecure.895124.live CNAME .
 inpost-pl-dostawa-dostawa.site CNAME .
 inpost-pl-myid271xs.liqun.shop CNAME .
+inpost-pl-mynid2ihxa.baol.live CNAME .
 inpost-pl-pacid273jks.dles.xyz CNAME .
 inpost-pl-safe.dostawasafe.xyz CNAME .
 inpost-pl-safe.dostawa-id.live CNAME .
@@ -65361,6 +65677,7 @@ inpost-pl.momen-tese-62829.xyz CNAME .
 inpost-pl.orset-fee-373838.xyz CNAME .
 inpost-pl.pl-traktat20461.pics CNAME .
 inpost-pl.poczta-id2865413.xyz CNAME .
+inpost-polska-pi.order193.info CNAME .
 inpost-polska-scu.order8859.me CNAME .
 inpost-polska.buy-id498198.xyz CNAME .
 inpost-pqtc.order77711902.info CNAME .
@@ -65614,12 +65931,23 @@ vinted-pi.logowanie2518349.fun CNAME .
 vinted-pi.logowanie7189648.xyz CNAME .
 vinted-pi.id-pl057184396.cloud CNAME .
 vinted-pl.wniosek857394.in.net CNAME .
+vinted-pl-gj32d.fiberoptic.top CNAME .
 vinted-pl-gj32d.findnclick.com CNAME .
 vinted-pl-gj32d.jevonsplas.xyz CNAME .
 vinted-pl-gj32d.polygraph.live CNAME .
+vinted-pl-gj32d.wingfield.shop CNAME .
+vinted-pl-gkk219.baipisong.top CNAME .
+vinted-pl-gkk219.informasi.top CNAME .
+vinted-pl-id002c.dementia.live CNAME .
 vinted-pl-id002c.dgtaitong.com CNAME .
+vinted-pl-id002c.happyderi.xyz CNAME .
+vinted-pl-id002c.informasi.top CNAME .
+vinted-pl-lzlxo.fiberoptic.top CNAME .
+vinted-polska-rr124.advouf.top CNAME .
 vintet-pl-kl2112.cimaclub.live CNAME .
+vintet-pl-kl2112.dagdeals.shop CNAME .
 vintet-pl-kl2112.dtshop100.com CNAME .
+vintet-pl-kl2112.informasi.top CNAME .
 vintet-pl-kl2112.4freight.shop CNAME .
 vint-ed.logplgo839472z.monster CNAME .
 vint-ed.order-dostawa32984.one CNAME .
@@ -65735,7 +66063,6 @@ www.cheap-online-stamp.cast.cc CNAME .
 www.medical-research-books.com CNAME .
 wes.df.telemetry.microsoft.com CNAME .
 alberts.diamondrelationscrm.us CNAME .
-drsha.innovativesolutions.mobi CNAME .
 financialfitnessservices.co.za CNAME .
 prevenzioneformazionelavoro.it CNAME .
 www.universalcustomdesigns.com CNAME .
@@ -66071,6 +66398,7 @@ a11egroloka1nje-site.562312.xyz CNAME .
 accpayment-now.centrentfxtv.icu CNAME .
 allegr0l0kalnie-user.763421.xyz CNAME .
 allegr010kalnie-pay.7321354.xyz CNAME .
+allegr010kalnie-shop.978851.xyz CNAME .
 alleqrolokalnie.user-order.site CNAME .
 anokhiinspiredindiancuisine.com CNAME .
 astralun-com.preview-domain.com CNAME .
@@ -66162,6 +66490,8 @@ inpost-pl.otrzymujacy45674.shop CNAME .
 inpost-pl-3dsecure.clear-id.xyz CNAME .
 inpost-pl-3dsec.dostawa-id.live CNAME .
 inpost-pl-3ds.clear-dostawa.xyz CNAME .
+inpost-pl-hid226ks.lushuang.top CNAME .
+inpost-pl-hid226ks.ooredoo.shop CNAME .
 inpost-pl-myid271xs.aiqiche.top CNAME .
 inpost-pl-myid271xs.cid-net.com CNAME .
 inpost-pl-mynid2ihxa.biuha33.us CNAME .
@@ -66191,6 +66521,7 @@ inpost-polska-mg.order8315.info CNAME .
 inpost-polska-mv.order8315.info CNAME .
 inpost-polska-nm.order9988.info CNAME .
 inpost-polska-oo.order8315.info CNAME .
+inpost-polska-po.order9988.info CNAME .
 inpost-polska-rp.order8315.info CNAME .
 inpost-polska-ti.order8315.info CNAME .
 inpost-polska-tv.order9351.info CNAME .
@@ -66356,6 +66687,7 @@ se-24-29963859512.azureedge.net CNAME .
 se-24-64128733959.azureedge.net CNAME .
 se-24-66490089947.azureedge.net CNAME .
 se-24-95253744166.azureedge.net CNAME .
+shoppingpay-vinted.32412445.xyz CNAME .
 shoppjng-74ingo48373.754124.xyz CNAME .
 skurskor-uno.preview-domain.com CNAME .
 spectacled-pool-melon.glitch.me CNAME .
@@ -66418,8 +66750,15 @@ vinted-pl.getpayserviceplnd.xyz CNAME .
 vinted-pl.sprzedaz7498545.click CNAME .
 vinted-pl.wniosek7773468.in.net CNAME .
 vinted-pl-gj32d.catastrophe.top CNAME .
+vinted-pl-gj32d.hangxachtay.xyz CNAME .
 vinted-pl-gj32d.vision2030.life CNAME .
+vinted-pl-gkk219.fiberoptic.top CNAME .
+vinted-pl-id002c.fiberoptic.top CNAME .
+vinted-pl-id002c.moyuguicai.xyz CNAME .
+vinted-pl-lzlxo.hangxachtay.xyz CNAME .
 vinted-pl.poznaj-185120.website CNAME .
+vinted-polska-rr124.topeka.shop CNAME .
+vinted-polska-rr124.zaatar.shop CNAME .
 vintet-pl-kl2112.bigevents.live CNAME .
 vint-ed.order-dostawa23904.buzz CNAME .
 vint-ed.order-dostawa63921.buzz CNAME .
@@ -66527,7 +66866,6 @@ demo-re-usables.inertiasoft.net CNAME .
 e-commerce.saleensuporte.com.br CNAME .
 fashionbyprincessmelodicaah.com CNAME .
 firmwareupdate.amdupdatepkg.com CNAME .
-isaac.mikhailmotoringschool.com CNAME .
 call-ad-network-api.marchex.com CNAME .
 clientmetrics-pa.googleapis.com CNAME .
 lightcast.leadscoringcenter.com CNAME .
@@ -66908,6 +67246,7 @@ inpost-polska-iv.orders9813.info CNAME .
 inpost-polska-ixs.orders8354.com CNAME .
 inpost-polska-jca.orders8354.com CNAME .
 inpost-polska-jh.order48382.info CNAME .
+inpost-polska-jh.orders9813.info CNAME .
 inpost-polska-jsl.order9351.info CNAME .
 inpost-polska-jtn.order9351.info CNAME .
 inpost-polska-kkd.orders8354.com CNAME .
@@ -66920,6 +67259,7 @@ inpost-polska-mnu.order9351.info CNAME .
 inpost-polska-mp.order4939292.me CNAME .
 inpost-polska-mrq.order9351.info CNAME .
 inpost-polska-nbf.order7159.info CNAME .
+inpost-polska-nwa.order9988.info CNAME .
 inpost-polska-nwb.order9351.info CNAME .
 inpost-polska-ocq.order9801.info CNAME .
 inpost-polska-oyt.order9351.info CNAME .
@@ -66989,6 +67329,7 @@ mojapaczka-oix.orderasdgdff.shop CNAME .
 mojapaczka-oix.orderastrsd.click CNAME .
 mojapaczka-oix.orderastrsd.quest CNAME .
 mojapaczka-oix.orderastrsd.space CNAME .
+mojapaczka-oix.orderyqrsas.click CNAME .
 moja-paczka.neworder-pl58049.top CNAME .
 moja-paczka.order-umowa204390.co CNAME .
 moje-olx.dostawa-order20395.pics CNAME .
@@ -67036,6 +67377,8 @@ polska-lnpost.payment6321617.xyz CNAME .
 polska-lnpost.payment9270184.xyz CNAME .
 polska-lnpost.order-id453758.xyz CNAME .
 polska-lnpost.order-id864878.xyz CNAME .
+polska-vinted-hjso21.topeka.shop CNAME .
+polska-vinted-hjso21.zaatar.shop CNAME .
 pomomento-com.preview-domain.com CNAME .
 potopilka-com.preview-domain.com CNAME .
 potrodhsi-com.preview-domain.com CNAME .
@@ -67085,12 +67428,16 @@ vihted-pl.id-dostawa972834.click CNAME .
 vihted-pl.pl-traktaty89324.click CNAME .
 vinted-pi.logowanie51726489.shop CNAME .
 vinted-pl.kontynuowac438726.shop CNAME .
+vinted-pl-gj32d.railwaymagic.xyz CNAME .
 vinted-pl-gj32d.spacewalkinc.com CNAME .
 vinted-pl-gkk219.iaacongress.com CNAME .
 vinted-polska-egg.order7159.info CNAME .
 vinted-polska-iai.order7159.info CNAME .
 vinted-polska-jyr.order7159.info CNAME .
 vinted-polska-lbo.order7159.info CNAME .
+vinted-polska-rr124.portale.shop CNAME .
+vinted-polska-rr124.yibaiwu2.xyz CNAME .
+vinted-polska-rr124.zimeiti.live CNAME .
 vinted-polska-szv.order7159.info CNAME .
 vinted-polska-tdl.order7159.info CNAME .
 vinted-polska-zft.order7159.info CNAME .
@@ -67402,6 +67749,7 @@ interactive.tinnhanhchungkhoan.vn CNAME .
 1npost-01distribution.0896432.xyz CNAME .
 01x899-payingdellvery.6495821.xyz CNAME .
 2records-forwardtv.logonno4.co.pl CNAME .
+a11egrolokalnie-shop.54451221.xyz CNAME .
 accpay-kontontf.appnotifytv.co.pl CNAME .
 accpay-kontontf.notifytvapp.co.pl CNAME .
 allaboutyouadultyouthservices.com CNAME .
@@ -67497,6 +67845,7 @@ inpost-polska-de.orders23441.info CNAME .
 inpost-polska-dh.order912412.info CNAME .
 inpost-polska-dk.orders88531.info CNAME .
 inpost-polska-ds.orders98851.info CNAME .
+inpost-polska-eb.orders83930.info CNAME .
 inpost-polska-eg.order574820.info CNAME .
 inpost-polska-ehd.order48382.info CNAME .
 inpost-polska-ejt.order48382.info CNAME .
@@ -67567,6 +67916,7 @@ inpost-polska-zl.orders88741.info CNAME .
 inpost-polska-zub.orders0094.info CNAME .
 inpost-tblw.ordernew25731110.info CNAME .
 inpost-ygfb.orderold53153312.info CNAME .
+in-post-pl-myid272xs.yibaiwu2.xyz CNAME .
 kedrovan-space.preview-domain.com CNAME .
 konto-netfix.metode-platnosci.icu CNAME .
 konto.weryfikacja-uzytkownika.top CNAME .
@@ -67663,6 +68013,9 @@ polska-alegrolokalnle.76748.space CNAME .
 polska-allegro.payment2848543.xyz CNAME .
 polska-lnpost.payment3977560.shop CNAME .
 polska-vinlted.order-id842846.xyz CNAME .
+polska-vinted-hjso21.ooredoo.shop CNAME .
+polska-vinted-hjso21.portale.shop CNAME .
+polska-vinted-hjso21.yibaiwu2.xyz CNAME .
 polskinews-02165053.azureedge.net CNAME .
 polskinews-02293739.azureedge.net CNAME .
 polskinews-03751991.azureedge.net CNAME .
@@ -67783,10 +68136,16 @@ vinted-pi.logowanie6137489.in.net CNAME .
 vinted-pi.logowanie41736942.space CNAME .
 vinted-pl.kontynuowac3843625.pics CNAME .
 vinted-pl.zalogowacsie3101947.xyz CNAME .
+vinted-pl-gj32d.arrowheadbmw.live CNAME .
 vinted-pl-gj32d.comprasonline.top CNAME .
+vinted-pl-gj32d.furyvswilder.live CNAME .
 vinted-pl-gj32d.inventor-ride.xyz CNAME .
+vinted-pl-lzlxo.furyvswilder.live CNAME .
+vinted-polska-rr124.dementia.live CNAME .
+vinted-polska-rr124.informasi.top CNAME .
 vintet-pl-kl2112.kleurlenzen.shop CNAME .
 vint-ed.order-dostawa03927.beauty CNAME .
+virted-pl-fi551.arrowheadbmw.live CNAME .
 vjnted-pl-ijfoks.belladiosadr.com CNAME .
 vjnted-polsca.cafasieurax746.pics CNAME .
 vjnted-polsca.fiwerrakler852.pics CNAME .
@@ -68075,6 +68434,7 @@ statystyki.ekspertyzy-szkolenia.pl CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
 analog.cell.phone.service.sms13.de CNAME .
 pila-dziedzictwo-2017-online.5v.pl CNAME .
+24hourlocksmiththewoodlandspro.com CNAME .
 27--01bbcpolice.powercoremedia.com CNAME .
 034cargo-dispatch4321.30649856.xyz CNAME .
 778t799e9e77e7ewwqqww.sport357.com CNAME .
@@ -68122,6 +68482,7 @@ inpost-pl-3dsafe.clear-dostawa.xyz CNAME .
 inpost-pl-3dsecure.dostawa-id.live CNAME .
 inpost-pl-myid271xs.hotpepper.life CNAME .
 inpost-pl-mynid2ihxa.cimaclub.live CNAME .
+inpost-pl-mynid2ihxa.happyderi.xyz CNAME .
 inpost-pl-xz5512.pl-order92817.xyz CNAME .
 inpost-pl.forfard-reset-372892.xyz CNAME .
 inpost-polskaxdz.order2588322.info CNAME .
@@ -68184,6 +68545,7 @@ inpost-polska-jj.order0912401.info CNAME .
 inpost-polska-jjt.orders23441.info CNAME .
 inpost-polska-jno.order912412.info CNAME .
 inpost-polska-jpw.orders98511.info CNAME .
+inpost-polska-jqq.orders83930.info CNAME .
 inpost-polska-jw.order0912401.info CNAME .
 inpost-polska-jxw.order692612.info CNAME .
 inpost-polska-jz.order1191966.info CNAME .
@@ -68209,6 +68571,7 @@ inpost-polska-mb.order0912401.info CNAME .
 inpost-polska-mel.order131313.info CNAME .
 inpost-polska-mm.order2104124.info CNAME .
 inpost-polska-mnp.order574820.info CNAME .
+inpost-polska-mpv.orders83930.info CNAME .
 inpost-polska-mu.orders984841.info CNAME .
 inpost-polska-mvk.order912412.info CNAME .
 inpost-polska-njl.orders98511.info CNAME .
@@ -68345,6 +68708,11 @@ poduszka-rozciagajaca-szyje-pl.com CNAME .
 poland-post.dostawa-order89742.top CNAME .
 polska-alegrolokalnle.213313.space CNAME .
 polska-alegrolokalnle.615715.space CNAME .
+polska-vinted-hjso21.baipisong.top CNAME .
+polska-vinted-hjso21.dagdeals.shop CNAME .
+polska-vinted-hjso21.dementia.live CNAME .
+polska-vinted-hjso21.happyderi.xyz CNAME .
+polska-vinted-hjso21.informasi.top CNAME .
 posmiertnie.sportbetsignupcode.com CNAME .
 pramodkumarsingh.000webhostapp.com CNAME .
 quizzical-lewin-2af472.netlify.app CNAME .
@@ -68353,6 +68721,7 @@ reg2-keepwatching.show4tvntf.co.pl CNAME .
 relaxed-hawking-14d35a.netlify.app CNAME .
 rixhone-website.preview-domain.com CNAME .
 seertikoler-xyz.preview-domain.com CNAME .
+sexagesimal-lock.000webhostapp.com CNAME .
 sign-in-verification-cf707.web.app CNAME .
 sluchawka-prysznicowa-wellness.com CNAME .
 stational-danger.000webhostapp.com CNAME .
@@ -68365,10 +68734,12 @@ vented-pl.order-umowa429038.beauty CNAME .
 verston-website.preview-domain.com CNAME .
 vinted-pl.kontynuowac457061.in.net CNAME .
 vinted-pl-gj32d.silkroad-tours.com CNAME .
+vinted-pl-gkk219.arrowheadbmw.live CNAME .
 vinted-pl.potwierdzenie-sp44zy.com CNAME .
 vinted-polska-clh.orders98511.info CNAME .
 vinted-polska-mkm.order887766.info CNAME .
 vinted-polska-qdf.orders23441.info CNAME .
+vinted-polska-rr124.moyuguicai.xyz CNAME .
 vinted-polska-sdz.orders98511.info CNAME .
 vinted-polska-ted.orders98511.info CNAME .
 vintet-pl-kl2112.borstvoeding.shop CNAME .
@@ -68377,6 +68748,7 @@ vintet-pl-kl2112.polskawysylka.fun CNAME .
 vintet-pl-kl2112.polskawysylka.lol CNAME .
 vintet-pl-kl2112.polskawysylka.mom CNAME .
 virted-pl-fi551.silkroad-tours.com CNAME .
+vjnted-pl-ijfoks.furyvswilder.live CNAME .
 vjnted-polsca.balafijadek945.store CNAME .
 vjnted-polsca.idpl0527489465.click CNAME .
 vjnted-polsca.kontynuuj04284791.pw CNAME .
@@ -68906,6 +69278,7 @@ vendorcentral-identifier-amazon.com CNAME .
 verify-transaction-payment-help.com CNAME .
 vihted-pl.dostawa-order89285.beauty CNAME .
 vihted-pl.dostawa-order90831.beauty CNAME .
+vinted-pl-gkk219.livinglightly.life CNAME .
 vinted-pl-lzlxo.szybko3848106.click CNAME .
 vinted-polska-eny.order9512951.info CNAME .
 vinted-polska-kuy.order2588322.info CNAME .
@@ -69153,6 +69526,7 @@ checkmaildetail4.validatehbk.repl.co CNAME .
 checkmaildetail5.validatehbk.repl.co CNAME .
 checkmaildetail6.validatehbk.repl.co CNAME .
 d8ngmj92ya444nmcuu8eaqg.peckao24.sbs CNAME .
+delliiveroljxpl.pldsbeinpay22.online CNAME .
 delll30ver1y9solx.gktspayplndsc.shop CNAME .
 fakty-onet-83436323292.azureedge.net CNAME .
 fakty-tlen-35071365196.azureedge.net CNAME .
@@ -69274,6 +69648,7 @@ pintersor-website.preview-domain.com CNAME .
 pl-alegrolokalnle.order-id364856.xyz CNAME .
 polskapoczta-vkwc.orderold23125.info CNAME .
 polska-vinted-hjso21.catastrophe.top CNAME .
+polska-vinted-hjso21.hangxachtay.xyz CNAME .
 pomponik-3097462608539.azureedge.net CNAME .
 pomponik-3821866716473.azureedge.net CNAME .
 portalgazetaregional.nordicca.com.br CNAME .
@@ -69287,9 +69662,11 @@ telephonic-washers.000webhostapp.com CNAME .
 verify-payment-transactions-help.com CNAME .
 verify-transactions-payment-help.com CNAME .
 vinted-pl-id002c.naprzod345894.click CNAME .
+vintet-pl-kl2112.newremedyoutlet.xyz CNAME .
 vintet-pl-kl2112.pathtowellness.life CNAME .
 vintet-pl-kl2112.polskawysylka.space CNAME .
 vintet-pl-kl2112.polskawysylka.store CNAME .
+vjnted-pl-ijfoks.newremedyoutlet.xyz CNAME .
 vjnted-polsca.logowanie0292809.cloud CNAME .
 vjnted-polsca.logowanie0339428.autos CNAME .
 vjnted-polsca.logowanie03491279.shop CNAME .
@@ -69315,9 +69692,13 @@ this.content.served.by.adshuffle.com CNAME .
 credit-card-application.now-cash.com CNAME .
 guerria-skateboard-tommy.tabrays.com CNAME .
 bootstrapcdn.jdorfman.netdna-cdn.com CNAME .
-0de5.telegram.godsmightywhispers.com CNAME .
-331c.telegram.godsmightywhispers.com CNAME .
-fef5.telegram.godsmightywhispers.com CNAME .
+00ac.telegram.godsmightywhispers.com CNAME .
+1773.telegram.godsmightywhispers.com CNAME .
+3761.telegram.godsmightywhispers.com CNAME .
+682b.telegram.godsmightywhispers.com CNAME .
+8ac0.telegram.godsmightywhispers.com CNAME .
+9482.telegram.godsmightywhispers.com CNAME .
+fbd1.telegram.godsmightywhispers.com CNAME .
 crashlyticsreports-pa.googleapis.com CNAME .
 analytics-digit-in.cdn.ampproject.org CNAME .
 client-analytics.braintreegateway.com CNAME .
@@ -69521,7 +69902,9 @@ inpost-pl-myid271xs.wniosek790438.xyz CNAME .
 inpost-pl-myid271xs.order-id78921.top CNAME .
 inpost-pl-myid271xs.pl-order92817.xyz CNAME .
 inpost-pl-myid271xs.pl-order93281.top CNAME .
+inpost-pl-mynid2ihxa.railwaymagic.xyz CNAME .
 inpost-pl-my-id2g3ys.baslamapara.shop CNAME .
+inpost-pl-my-id2g3ys.railwaymagic.xyz CNAME .
 inpost-pl.trackcode-info-id986453.xyz CNAME .
 inpost-polskaxd.ordernew25731110.info CNAME .
 inpost-polska-afb.ordernew584812.info CNAME .
@@ -69572,6 +69955,7 @@ mojapaczka-inpost.nazwaid0584961.buzz CNAME .
 mojapaczka-inpost.plid179483265.click CNAME .
 mojapaczka-inpost.plid472845913.click CNAME .
 mojapaczka-inpost.szybko72184695.pics CNAME .
+moja-paczka-pl-myid576xs.muabanxe.xyz CNAME .
 moja-paczka-pl-myid576xs.amway-sk.com CNAME .
 naphtheneclaquer.intiaggressivity.com CNAME .
 nazwapay-pl-5cfa5e08.evv-auditing.com CNAME .
@@ -69619,6 +70003,8 @@ sleuthlike-phantasiastic-handsome.xyz CNAME .
 sprawdz-identyfikacje.romuskatl.co.pl CNAME .
 sprawdz-identyfikacje.vernetaid.co.pl CNAME .
 update-paymentnow.ntftvcentre.website CNAME .
+vinted-pl-gj32d.reklamnipredmety.shop CNAME .
+vinted-pl-lzlxo.reklamnipredmety.shop CNAME .
 vinted-polska-adx.ordernew484822.info CNAME .
 vinted-polska-aif.ordernew484822.info CNAME .
 vinted-polska-atk.ordernew484822.info CNAME .
@@ -69652,6 +70038,7 @@ vinted-polska-yny.ordernew484822.info CNAME .
 vinted-polska-zcv.ordernew484822.info CNAME .
 vinted-polska-zpj.ordernew484822.info CNAME .
 vintet-pl-kl2112.albuterolinhaler.top CNAME .
+virted-pl-fi551.reklamnipredmety.shop CNAME .
 vjnted-polsca.bornajerlfudnerolk.pics CNAME .
 vjnted-polsca.eoaknfdeyudorngje.space CNAME .
 vjnted-polsca.jekfopfoaidfhafq756.mom CNAME .
@@ -69682,6 +70069,9 @@ tgpcounter.freethumbnailgalleries.com CNAME .
 ap.read.mediation.pns.ap.orangeads.fr CNAME .
 this.content.served.by.addshuffle.com CNAME .
 danger-phentermine.allforyourlife.com CNAME .
+3023.templates.victoryoverdieting.com CNAME .
+5da1.templates.victoryoverdieting.com CNAME .
+6715.templates.victoryoverdieting.com CNAME .
 ad.mynetreklam.com.streamprovider.net CNAME .
 browser-http-intake.logs.datadoghq.eu CNAME .
 prod.cm.publishers.advertising.a2z.com CNAME .
@@ -69926,6 +70316,7 @@ fakt-interia-62544444857.azureedge.net CNAME .
 hdrive1210978517.blob.core.windows.net CNAME .
 ihp0st34-ihform98dejivery.34512225.xyz CNAME .
 inf0pay4cago79-8sendjnf457.4521544.xyz CNAME .
+informacjezdnia24h-lokalnieinfo.com.pl CNAME .
 informacje-24-waw-pl.000webhostapp.com CNAME .
 informacje-1244193355586.azureedge.net CNAME .
 informacje-1579375201752.azureedge.net CNAME .
@@ -70019,6 +70410,8 @@ parcel.qzyz3dzq80rzbl3.amin-sharifi.ir CNAME .
 polskainfo-8852487412410.azureedge.net CNAME .
 polskapoczta-mmum.ordernew3124121.info CNAME .
 polska-olx-girqz.neworder-pl39231.buzz CNAME .
+polska-vinted-hjso21.arrowheadbmw.live CNAME .
+polska-vinted-hjso21.furyvswilder.live CNAME .
 pomponik-24h-22519575693.azureedge.net CNAME .
 pomponik-24h-36603292225.azureedge.net CNAME .
 post-track.poczta-polska.al-awa2el.com CNAME .
@@ -70038,7 +70431,9 @@ unsubscribe.vomeo8wflpty52u.neyazco.ir CNAME .
 vinteds-pln-dellvrs.ordesscoregk4.shop CNAME .
 vinted-pl-gkk219.detectordemetales.top CNAME .
 vinted-polska-hgj.ordernew3124121.info CNAME .
+vinted-polska-rr124.livinglightly.life CNAME .
 vintet-pl-kl2112.gardendesignideas.xyz CNAME .
+vjnted-pl-ijfoks.reklamnipredmety.shop CNAME .
 vjnted-polsca.kontynuuj03937451.in.net CNAME .
 vjnted-polsca.kontynuuj04375814.in.net CNAME .
 webserviericationn4.janezhang7.repl.co CNAME .
@@ -70057,7 +70452,6 @@ uk.bitcoinfreedom-appl.t500track42.com CNAME .
 vodus-api-serverless.azurewebsites.net CNAME .
 aid-golf-golfdust-training.tabrays.com CNAME .
 www.uniqueinternettexasholdempoker.com CNAME .
-downloadtomember.cloud.mayoorschool.in CNAME .
 evashopping.thietkewebsitechuanseo.com CNAME .
 tradingview-brokers.learnforcareer.com CNAME .
 host-62-113-112-127.hosted-by-vdsina.ru CNAME .
@@ -70318,6 +70712,7 @@ inpost-polska.ggergewgewrg-487585.space CNAME .
 inpost-polska.ggergewgewrg-623819.space CNAME .
 in-post-pl-myid272xs.iwantaviation.info CNAME .
 in-post-pl-myid272xs.zuacaralosdert.xyz CNAME .
+letmeshow-tvnowforlo.vptonewshows.co.pl CNAME .
 log728azmx-thisdkmsa2z.ntfixshows.co.pl CNAME .
 marpagipening.tarungdrajatsiokalama.com CNAME .
 marpijakpijak.tarungdrajatsiokalama.com CNAME .
@@ -70337,10 +70732,12 @@ polskapoczta-eigs.ordernew12312517.info CNAME .
 polskapoczta-polska-so.orders23441.info CNAME .
 polska-pilne-156830252205.azureedge.net CNAME .
 polska-pilne-812925219439.azureedge.net CNAME .
+polska-vinted-hjso21.livinglightly.life CNAME .
 rombakpagimas.tarungdrajatsiokalama.com CNAME .
 start2log-forwatching.4tvnowshows.co.pl CNAME .
 verifyidentity-now.blackfriappnow.co.pl CNAME .
 vinted-polska-otf.ordernew25731110.info CNAME .
+vinted-polska-rr124.newremedyoutlet.xyz CNAME .
 vinted-polska-zwl.ordernew11010103.info CNAME .
 wiadomosci-op-45474113799.azureedge.net CNAME .
 wiadomosci-op-52989861553.azureedge.net CNAME .
@@ -70596,6 +70993,7 @@ polska-pilne-6030297096891.azureedge.net CNAME .
 polska-pilne-7120575063598.azureedge.net CNAME .
 polska-pilne-7183448191625.azureedge.net CNAME .
 polska-pilne-9421700455835.azureedge.net CNAME .
+polska-vinted-hjso21.newremedyoutlet.xyz CNAME .
 polska-vinted-hjso21.order-id73291.click CNAME .
 pomponik-wazne-40278221223.azureedge.net CNAME .
 portal-interia-64126392915.azureedge.net CNAME .
@@ -70607,6 +71005,7 @@ service-account-payment-genuinelsmath.eu CNAME .
 shared-fluttering-ankylosaurus.glitch.me CNAME .
 sprawdz-identyfikacje.netafix-pl.digital CNAME .
 tripadvisor.review-g3145001-d7119742.com CNAME .
+vintesd-plndellvr.frentplndspay21.online CNAME .
 vintred-polskadellwrs.ordesscoregk1.shop CNAME .
 weryfikacja-facebookowa-10.herokuapp.com CNAME .
 weryfikacja-facebookowa-15.herokuapp.com CNAME .
@@ -70806,6 +71205,7 @@ great-opportunities-to-work-from-home.com CNAME .
 4watch2739a-logfo293az.afterwatchtv.co.pl CNAME .
 allegrolokalnie-pl-3dsafe.dostawa-id.live CNAME .
 allegrolokalnie-pl-3dseif.dostawa-id.live CNAME .
+allegro-lokallpolska.pldsbeinpay22.online CNAME .
 carminaloa-b22fa3.ingress-erytho.ewp.live CNAME .
 dellvrs-olx-polskarst.ordesscoregk23.shop CNAME .
 dhl-paket-express-international.cfolks.pl CNAME .
@@ -71115,6 +71515,7 @@ paiementnazwa-pl-10133dd9.evv-auditing.com CNAME .
 paiementnazwa-pl-ad568779.evv-auditing.com CNAME .
 paiementnazwa-pl-d15a0f9e.evv-auditing.com CNAME .
 pocztasystemhelpdesk2098.000webhostapp.com CNAME .
+polska-vinted-hjso21.reklamnipredmety.shop CNAME .
 powiadomienia-allegro.uzytkownik5231.click CNAME .
 powiadomienia-allegro.uzytkownik5232.click CNAME .
 powiadomienia-allegro.uzytkownik5235.click CNAME .
@@ -71393,6 +71794,7 @@ mailserverhosting28.emailserverchec.repl.co CNAME .
 mailserverhosting29.emailserverchec.repl.co CNAME .
 mailserverhosting30.emailserverchec.repl.co CNAME .
 moja-paczka-pl-myid576xs.ninepointfive.life CNAME .
+palogvideo02-8dnowforzsa2.krontfishow.co.pl CNAME .
 suspicious-fermat.188-166-72-140.plesk.page CNAME .
 telewizjapolska-1040968155457.azureedge.net CNAME .
 telewizjapolska-1352893775966.azureedge.net CNAME .
